@@ -1,0 +1,8 @@
+- [ ] All 28 letters show and play a sound (TTS and recorded)
+- [ ] Forms room: initial/medial locked for ا د ذ ر ز و; others join correctly
+- [ ] Words: طالب بيت كتاب باب قمر نبت تبن render joined, right-to-left, coloured
+- [ ] Build it: boxes fill from the right; wrong tile shakes, plays correct sound, never red
+- [ ] Fix it works; island grows after each word; progress survives reload
+- [ ] Offline after first load (airplane mode); installable on Android Chrome
+- [ ] Reduced-motion on: no animations; works one-handed on a 5.5" screen
+- [ ] Native Arabic speaker reviewed letters, sounds and words

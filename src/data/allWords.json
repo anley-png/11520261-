@@ -1,0 +1,4618 @@
+[
+  {
+    "id": "w001",
+    "indices": [
+      0,
+      11,
+      7
+    ],
+    "word": "أسد",
+    "vocalized": "أَسَد",
+    "meaning": "lion",
+    "amharic": "አንበሳ",
+    "emoji": "🦁",
+    "transliteration": "'asad",
+    "section": "1. Hamza and Alif (أ / ا)",
+    "example_of": "A (Short a) · start of word · በ መጀመሪያ",
+    "audioId": "w001"
+  },
+  {
+    "id": "w002",
+    "indices": [
+      11,
+      0,
+      22
+    ],
+    "word": "سأل",
+    "vocalized": "سَأَلَ",
+    "meaning": "he asked",
+    "amharic": "ጠየቀ",
+    "emoji": "❓",
+    "transliteration": "sa'ala",
+    "section": "1. Hamza and Alif (أ / ا)",
+    "example_of": "A (Short a) · middle of word · በ መሃከል",
+    "audioId": "w002"
+  },
+  {
+    "id": "w003",
+    "indices": [
+      20,
+      9,
+      0
+    ],
+    "word": "قرأ",
+    "vocalized": "قَرَأَ",
+    "meaning": "he read",
+    "amharic": "አነበበ",
+    "emoji": "📖",
+    "transliteration": "qara'a",
+    "section": "1. Hamza and Alif (أ / ا)",
+    "example_of": "A (Short a) · end of word · በ መጨረሻ | A (Final short a) · end of word · በ መጨረሻ | Ra (Medial/Final short a) · middle of word · በ መሃከል",
+    "audioId": "w003"
+  },
+  {
+    "id": "w004",
+    "indices": [
+      0,
+      1,
+      9,
+      2
+    ],
+    "word": "إبرة",
+    "vocalized": "إِبْرَة",
+    "meaning": "needle",
+    "amharic": "መርፌ",
+    "emoji": "🪡",
+    "transliteration": "'ibrah",
+    "section": "1. Hamza and Alif (أ / ا)",
+    "example_of": "I (Short i) · start of word · በ መጀመሪያ",
+    "audioId": "w004"
+  },
+  {
+    "id": "w005",
+    "indices": [
+      0,
+      23
+    ],
+    "word": "أم",
+    "vocalized": "أُمّ",
+    "meaning": "mother",
+    "amharic": "እናት",
+    "emoji": "👩‍👧",
+    "transliteration": "'umm",
+    "section": "1. Hamza and Alif (أ / ا)",
+    "example_of": "U (Short u) · start of word · በ መጀመሪያ",
+    "audioId": "w005"
+  },
+  {
+    "id": "w006",
+    "indices": [
+      0,
+      7,
+      23
+    ],
+    "word": "آدم",
+    "vocalized": "آدَم",
+    "meaning": "Adam",
+    "amharic": "አዳም",
+    "emoji": "👨",
+    "transliteration": "Ādam",
+    "section": "1. Hamza and Alif (أ / ا)",
+    "example_of": "Aa (Long aa) · start of word · በ መጀመሪያ",
+    "audioId": "w006"
+  },
+  {
+    "id": "w007",
+    "indices": [
+      20,
+      9,
+      0,
+      24
+    ],
+    "word": "قرآن",
+    "vocalized": "قُرآن",
+    "meaning": "Qur'an",
+    "amharic": "ቁርአን",
+    "emoji": "📖",
+    "transliteration": "Qur'ān",
+    "section": "1. Hamza and Alif (أ / ا)",
+    "example_of": "Aa (Long aa) · middle of word · በ መሃከል",
+    "audioId": "w007"
+  },
+  {
+    "id": "w008",
+    "indices": [
+      0,
+      27,
+      23,
+      0,
+      24
+    ],
+    "word": "إيمان",
+    "vocalized": "إِيمَان",
+    "meaning": "faith",
+    "amharic": "እምነት",
+    "emoji": "🤲",
+    "transliteration": "Īmān",
+    "section": "1. Hamza and Alif (أ / ا)",
+    "example_of": "Ee / Ii (Long ee) · start of word · በ መጀመሪያ",
+    "audioId": "w008"
+  },
+  {
+    "id": "w009",
+    "indices": [
+      0,
+      26,
+      22,
+      27
+    ],
+    "word": "أولى",
+    "vocalized": "أُولَى",
+    "meaning": "first (feminine)",
+    "amharic": "መጀመሪያ (ሴት)",
+    "emoji": "✨",
+    "transliteration": "Ūlā",
+    "section": "1. Hamza and Alif (أ / ا)",
+    "example_of": "Oo / Uu (Long oo) · start of word · በ መጀመሪያ",
+    "audioId": "w009"
+  },
+  {
+    "id": "w010",
+    "indices": [
+      0,
+      5,
+      7
+    ],
+    "word": "أحد",
+    "vocalized": "أَحَد",
+    "meaning": "one; Sunday",
+    "amharic": "አንድ፤ እሑድ",
+    "emoji": "1️⃣",
+    "transliteration": "'Aḥad",
+    "section": "1. Hamza and Alif (أ / ا)",
+    "example_of": "A (Initial short a) · start of word · በ መጀመሪያ",
+    "audioId": "w010"
+  },
+  {
+    "id": "w011",
+    "indices": [
+      9,
+      0,
+      11
+    ],
+    "word": "رأس",
+    "vocalized": "رَأَسَ",
+    "meaning": "he headed/led (as written; possibly رأسَ)",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "✨",
+    "transliteration": "ra'aasa",
+    "section": "1. Hamza and Alif (أ / ا)",
+    "example_of": "A (Medial short a) · middle of word · በ መሃከል",
+    "audioId": "w011"
+  },
+  {
+    "id": "w012",
+    "indices": [
+      1,
+      5,
+      9
+    ],
+    "word": "بحر",
+    "vocalized": "بَحْر",
+    "meaning": "sea",
+    "amharic": "ባሕር",
+    "emoji": "🌊",
+    "transliteration": "baḥr",
+    "section": "2. ب (Baa)",
+    "example_of": "Ba (Short a) · start of word · በ መጀመሪያ",
+    "audioId": "w012"
+  },
+  {
+    "id": "w013",
+    "indices": [
+      4,
+      1,
+      22
+    ],
+    "word": "جبل",
+    "vocalized": "جَبَل",
+    "meaning": "mountain",
+    "amharic": "ተራራ",
+    "emoji": "⛰️",
+    "transliteration": "jabal",
+    "section": "2. ب (Baa)",
+    "example_of": "Ba (Short a) · middle of word · በ መሃከል | Ja (Initial short a) · start of word · በ መጀመሪያ | La (Final short a) · end of word · በ መጨረሻ",
+    "audioId": "w013"
+  },
+  {
+    "id": "w014",
+    "indices": [
+      8,
+      25,
+      1
+    ],
+    "word": "ذهب",
+    "vocalized": "ذَهَبَ",
+    "meaning": "he went",
+    "amharic": "ሄደ",
+    "emoji": "🚶",
+    "transliteration": "dhahaba",
+    "section": "2. ب (Baa)",
+    "example_of": "Ba (Short a) · end of word · በ መጨረሻ",
+    "audioId": "w014"
+  },
+  {
+    "id": "w015",
+    "indices": [
+      1,
+      24,
+      2
+    ],
+    "word": "بنت",
+    "vocalized": "بِنْت",
+    "meaning": "girl; daughter",
+    "amharic": "ሴት ልጅ",
+    "emoji": "👧",
+    "transliteration": "bint",
+    "section": "2. ب (Baa)",
+    "example_of": "Bi (Short i) · start of word · በ መጀመሪያ",
+    "audioId": "w015"
+  },
+  {
+    "id": "w016",
+    "indices": [
+      21,
+      1,
+      27,
+      9
+    ],
+    "word": "كبير",
+    "vocalized": "كَبِير",
+    "meaning": "big; great",
+    "amharic": "ትልቅ",
+    "emoji": "🐘",
+    "transliteration": "kabiyr",
+    "section": "2. ب (Baa)",
+    "example_of": "Bi (Short i) · middle of word · በ መሃከል",
+    "audioId": "w016"
+  },
+  {
+    "id": "w017",
+    "indices": [
+      1,
+      9,
+      4
+    ],
+    "word": "برج",
+    "vocalized": "بُرْج",
+    "meaning": "tower; zodiac sign",
+    "amharic": "ግንብ፤ የዞዲያክ ምልክት",
+    "emoji": "🗼",
+    "transliteration": "burj",
+    "section": "2. ب (Baa)",
+    "example_of": "Bu (Short u) · start of word · በ መጀመሪያ | Ja (Final short a) · end of word · በ መጨረሻ",
+    "audioId": "w017"
+  },
+  {
+    "id": "w018",
+    "indices": [
+      11,
+      1,
+      26,
+      17
+    ],
+    "word": "سبوع",
+    "vocalized": "سُبُوع",
+    "meaning": "unclear as written",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "✨",
+    "transliteration": "subuwʿ",
+    "section": "2. ب (Baa)",
+    "example_of": "Bu (Short u) · middle of word · በ መሃከል",
+    "audioId": "w018"
+  },
+  {
+    "id": "w019",
+    "indices": [
+      1,
+      0,
+      1
+    ],
+    "word": "باب",
+    "vocalized": "بَاب",
+    "meaning": "door",
+    "amharic": "በር",
+    "emoji": "🚪",
+    "transliteration": "baāb",
+    "section": "2. ب (Baa)",
+    "example_of": "Baa (Long aa) · start of word · በ መጀመሪያ",
+    "audioId": "w019"
+  },
+  {
+    "id": "w020",
+    "indices": [
+      13,
+      1,
+      0,
+      5
+    ],
+    "word": "صباح",
+    "vocalized": "صَبَاح",
+    "meaning": "morning",
+    "amharic": "ጠዋት",
+    "emoji": "🌅",
+    "transliteration": "ṣabaāḥ",
+    "section": "2. ب (Baa)",
+    "example_of": "Baa (Long aa) · middle of word · በ መሃከል",
+    "audioId": "w020"
+  },
+  {
+    "id": "w021",
+    "indices": [
+      6,
+      1,
+      0
+    ],
+    "word": "خبا",
+    "vocalized": "خَبَا",
+    "meaning": "he went out; faded",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "🚶",
+    "transliteration": "khabaā",
+    "section": "2. ب (Baa)",
+    "example_of": "Baa (Long aa) · end of word · በ መጨረሻ",
+    "audioId": "w021"
+  },
+  {
+    "id": "w022",
+    "indices": [
+      1,
+      27,
+      9,
+      26,
+      2
+    ],
+    "word": "بيروت",
+    "vocalized": "بِيرُوت",
+    "meaning": "Beirut",
+    "amharic": "ቤሩት",
+    "emoji": "✨",
+    "transliteration": "biyruwt",
+    "section": "2. ب (Baa)",
+    "example_of": "Bee / Bii (Long ee) · start of word · በ መጀመሪያ",
+    "audioId": "w022"
+  },
+  {
+    "id": "w023",
+    "indices": [
+      15,
+      1,
+      27,
+      1
+    ],
+    "word": "طبيب",
+    "vocalized": "طَبِيب",
+    "meaning": "doctor",
+    "amharic": "ሐኪም",
+    "emoji": "👨‍⚕️",
+    "transliteration": "ṭabiyb",
+    "section": "2. ب (Baa)",
+    "example_of": "Bee / Bii (Long ee) · middle of word · በ መሃከል",
+    "audioId": "w023"
+  },
+  {
+    "id": "w024",
+    "indices": [
+      5,
+      1,
+      27,
+      1
+    ],
+    "word": "حبيب",
+    "vocalized": "حَبِيب",
+    "meaning": "beloved; dear",
+    "amharic": "የተወደደ",
+    "emoji": "❤️",
+    "transliteration": "ḥabiyb",
+    "section": "2. ب (Baa)",
+    "example_of": "Bee / Bii (Long ee) · end of word · በ መጨረሻ",
+    "audioId": "w024"
+  },
+  {
+    "id": "w025",
+    "indices": [
+      1,
+      26,
+      20
+    ],
+    "word": "بوق",
+    "vocalized": "بُوق",
+    "meaning": "horn; trumpet",
+    "amharic": "ቀንድ፤ መለከት",
+    "emoji": "📯",
+    "transliteration": "buwq",
+    "section": "2. ب (Baa)",
+    "example_of": "Boo / Buu (Long oo) · start of word · በ መጀመሪያ",
+    "audioId": "w025"
+  },
+  {
+    "id": "w026",
+    "indices": [
+      23,
+      5,
+      1,
+      26,
+      1
+    ],
+    "word": "محبوب",
+    "vocalized": "مَحْبُوب",
+    "meaning": "beloved",
+    "amharic": "የተወደደ",
+    "emoji": "❤️",
+    "transliteration": "maḥbuwb",
+    "section": "2. ب (Baa)",
+    "example_of": "Boo / Buu (Long oo) · middle of word · በ መሃከል",
+    "audioId": "w026"
+  },
+  {
+    "id": "w027",
+    "indices": [
+      23,
+      5,
+      22,
+      26,
+      1
+    ],
+    "word": "محلوب",
+    "vocalized": "مَحْلُوب",
+    "meaning": "milked; unclear as a standalone word",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "1️⃣",
+    "transliteration": "maḥluwb",
+    "section": "2. ب (Baa)",
+    "example_of": "Boo / Buu (Long oo) · end of word · በ መጨረሻ",
+    "audioId": "w027"
+  },
+  {
+    "id": "w028",
+    "indices": [
+      1,
+      9,
+      20
+    ],
+    "word": "برق",
+    "vocalized": "بَرْق",
+    "meaning": "lightning",
+    "amharic": "መብረቅ",
+    "emoji": "⚡",
+    "transliteration": "barq",
+    "section": "2. ب (Baa)",
+    "example_of": "Ba (Initial short a) · start of word · በ መጀመሪያ",
+    "audioId": "w028"
+  },
+  {
+    "id": "w029",
+    "indices": [
+      1,
+      0,
+      9
+    ],
+    "word": "بئر",
+    "vocalized": "بِئْر",
+    "meaning": "well",
+    "amharic": "ጉድጓድ",
+    "emoji": "🕳️",
+    "transliteration": "bi'ir",
+    "section": "2. ب (Baa)",
+    "example_of": "Bi (Initial short i) · start of word · በ መጀመሪያ",
+    "audioId": "w029"
+  },
+  {
+    "id": "w030",
+    "indices": [
+      1,
+      9,
+      25,
+      0,
+      24
+    ],
+    "word": "برهان",
+    "vocalized": "بُرْهَان",
+    "meaning": "proof; evidence",
+    "amharic": "ማስረጃ",
+    "emoji": "✨",
+    "transliteration": "burhaān",
+    "section": "2. ب (Baa)",
+    "example_of": "Bu (Initial short u) · start of word · በ መጀመሪያ",
+    "audioId": "w030"
+  },
+  {
+    "id": "w031",
+    "indices": [
+      9,
+      20,
+      1,
+      2
+    ],
+    "word": "رقبة",
+    "vocalized": "رَقَبَة",
+    "meaning": "neck",
+    "amharic": "አንገት",
+    "emoji": "🦒",
+    "transliteration": "raqabaa",
+    "section": "2. ب (Baa)",
+    "example_of": "Ba (Medial short a) · middle of word · በ መሃከል",
+    "audioId": "w031"
+  },
+  {
+    "id": "w032",
+    "indices": [
+      21,
+      2,
+      1
+    ],
+    "word": "كتب",
+    "vocalized": "كَتَبَ",
+    "meaning": "he wrote",
+    "amharic": "ጻፈ",
+    "emoji": "✍️",
+    "transliteration": "kataba",
+    "section": "2. ب (Baa)",
+    "example_of": "Ba (Final short a) · end of word · በ መጨረሻ | Ta (Short a) · middle of word · በ መሃከል",
+    "audioId": "w032"
+  },
+  {
+    "id": "w033",
+    "indices": [
+      2,
+      23,
+      9
+    ],
+    "word": "تمر",
+    "vocalized": "تَمْر",
+    "meaning": "dates",
+    "amharic": "ተምር",
+    "emoji": "🌴",
+    "transliteration": "tamr",
+    "section": "3. ت (Taa)",
+    "example_of": "Ta (Short a) · start of word · በ መጀመሪያ",
+    "audioId": "w033"
+  },
+  {
+    "id": "w034",
+    "indices": [
+      2,
+      23,
+      11,
+      0,
+      5
+    ],
+    "word": "تمساح",
+    "vocalized": "تِمْسَاح",
+    "meaning": "crocodile",
+    "amharic": "አዞ",
+    "emoji": "🐊",
+    "transliteration": "timsaāḥ",
+    "section": "3. ت (Taa)",
+    "example_of": "Ti (Short i) · start of word · በ መጀመሪያ",
+    "audioId": "w034"
+  },
+  {
+    "id": "w035",
+    "indices": [
+      2,
+      19,
+      0,
+      5
+    ],
+    "word": "تفاح",
+    "vocalized": "تُفَّاح",
+    "meaning": "apples",
+    "amharic": "ፖም",
+    "emoji": "🍎",
+    "transliteration": "tufaāḥ",
+    "section": "3. ت (Taa)",
+    "example_of": "Tu (Short u) · start of word · በ መጀመሪያ",
+    "audioId": "w035"
+  },
+  {
+    "id": "w036",
+    "indices": [
+      23,
+      2,
+      26,
+      24
+    ],
+    "word": "متون",
+    "vocalized": "مُتُون",
+    "meaning": "texts; main bodies",
+    "amharic": "ጽሑፎች",
+    "emoji": "✨",
+    "transliteration": "mutuwn",
+    "section": "3. ت (Taa)",
+    "example_of": "Tu (Short u) · middle of word · በ መሃከል",
+    "audioId": "w036"
+  },
+  {
+    "id": "w037",
+    "indices": [
+      2,
+      0,
+      4
+    ],
+    "word": "تاج",
+    "vocalized": "تَاج",
+    "meaning": "crown",
+    "amharic": "ዘውድ",
+    "emoji": "✨",
+    "transliteration": "taāj",
+    "section": "3. ت (Taa)",
+    "example_of": "Taa (Long aa) · start of word · በ መጀመሪያ",
+    "audioId": "w037"
+  },
+  {
+    "id": "w038",
+    "indices": [
+      21,
+      2,
+      0,
+      1
+    ],
+    "word": "كتاب",
+    "vocalized": "كِتَاب",
+    "meaning": "book",
+    "amharic": "መጽሐፍ",
+    "emoji": "📖",
+    "transliteration": "kitaāb",
+    "section": "3. ت (Taa)",
+    "example_of": "Taa (Long aa) · middle of word · በ መሃከል | Ki (Short i) · start of word · በ መጀመሪያ",
+    "audioId": "w038"
+  },
+  {
+    "id": "w039",
+    "indices": [
+      19,
+      2,
+      0
+    ],
+    "word": "فتا",
+    "vocalized": "فَتَا",
+    "meaning": "young man",
+    "amharic": "ወጣት ወንድ",
+    "emoji": "👨",
+    "transliteration": "fataā",
+    "section": "3. ت (Taa)",
+    "example_of": "Taa (Long aa) · end of word · በ መጨረሻ",
+    "audioId": "w039"
+  },
+  {
+    "id": "w040",
+    "indices": [
+      2,
+      27,
+      24
+    ],
+    "word": "تين",
+    "vocalized": "تِين",
+    "meaning": "figs",
+    "amharic": "በለስ",
+    "emoji": "✨",
+    "transliteration": "tiyn",
+    "section": "3. ت (Taa)",
+    "example_of": "Tee / Tii (Long ee) · start of word · በ መጀመሪያ",
+    "audioId": "w040"
+  },
+  {
+    "id": "w041",
+    "indices": [
+      23,
+      2,
+      27,
+      24
+    ],
+    "word": "متين",
+    "vocalized": "مَتِين",
+    "meaning": "strong; firm",
+    "amharic": "ጠንካራ",
+    "emoji": "✨",
+    "transliteration": "matiyn",
+    "section": "3. ت (Taa)",
+    "example_of": "Tee / Tii (Long ee) · middle of word · በ መሃከል",
+    "audioId": "w041"
+  },
+  {
+    "id": "w042",
+    "indices": [
+      2,
+      26,
+      2
+    ],
+    "word": "توت",
+    "vocalized": "تُوت",
+    "meaning": "mulberries",
+    "amharic": "እንጆሪ ዓይነት ፍሬ",
+    "emoji": "✨",
+    "transliteration": "tuwt",
+    "section": "3. ت (Taa)",
+    "example_of": "Too / Tuu (Long oo) · start of word · በ መጀመሪያ",
+    "audioId": "w042"
+  },
+  {
+    "id": "w043",
+    "indices": [
+      2,
+      26,
+      2,
+      26,
+      24
+    ],
+    "word": "توتون",
+    "vocalized": "تُوتُون",
+    "meaning": "tobacco (unusual form)",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "✨",
+    "transliteration": "tuwtuwn",
+    "section": "3. ت (Taa)",
+    "example_of": "Too / Tuu (Long oo) · middle of word · በ መሃከል",
+    "audioId": "w043"
+  },
+  {
+    "id": "w044",
+    "indices": [
+      2,
+      5,
+      2
+    ],
+    "word": "تحت",
+    "vocalized": "تَحْت",
+    "meaning": "under; below",
+    "amharic": "ከታች",
+    "emoji": "✨",
+    "transliteration": "taḥt",
+    "section": "3. ت (Taa)",
+    "example_of": "Ta (Initial short a) · start of word · በ መጀመሪያ",
+    "audioId": "w044"
+  },
+  {
+    "id": "w045",
+    "indices": [
+      19,
+      2,
+      5
+    ],
+    "word": "فتح",
+    "vocalized": "فَتَحَ",
+    "meaning": "he opened",
+    "amharic": "ከፈተ",
+    "emoji": "✏️",
+    "transliteration": "fataḥa",
+    "section": "3. ت (Taa)",
+    "example_of": "Ta (Medial short a) · middle of word · በ መሃከል",
+    "audioId": "w045"
+  },
+  {
+    "id": "w046",
+    "indices": [
+      23,
+      26,
+      2
+    ],
+    "word": "موت",
+    "vocalized": "مَوْت",
+    "meaning": "death",
+    "amharic": "ሞት",
+    "emoji": "✨",
+    "transliteration": "mawt",
+    "section": "3. ت (Taa)",
+    "example_of": "Ta (Final short a) · end of word · በ መጨረሻ",
+    "audioId": "w046"
+  },
+  {
+    "id": "w047",
+    "indices": [
+      3,
+      22,
+      4
+    ],
+    "word": "ثلج",
+    "vocalized": "ثَلَج",
+    "meaning": "snow",
+    "amharic": "በረዶ",
+    "emoji": "❄️",
+    "transliteration": "thalaj",
+    "section": "4. ث (Thaa)",
+    "example_of": "Tha (Short a) · start of word · በ መጀመሪያ",
+    "audioId": "w047"
+  },
+  {
+    "id": "w048",
+    "indices": [
+      23,
+      3,
+      22
+    ],
+    "word": "مثل",
+    "vocalized": "مَثَل",
+    "meaning": "example; proverb",
+    "amharic": "ምሳሌ",
+    "emoji": "✨",
+    "transliteration": "mathal",
+    "section": "4. ث (Thaa)",
+    "example_of": "Tha (Short a) · middle of word · በ መሃከል",
+    "audioId": "w048"
+  },
+  {
+    "id": "w049",
+    "indices": [
+      3,
+      20,
+      2
+    ],
+    "word": "ثقة",
+    "vocalized": "ثِقَة",
+    "meaning": "trust; confidence",
+    "amharic": "እምነት",
+    "emoji": "✨",
+    "transliteration": "thiqaa",
+    "section": "4. ث (Thaa)",
+    "example_of": "Thi (Short i) · start of word · በ መጀመሪያ",
+    "audioId": "w049"
+  },
+  {
+    "id": "w050",
+    "indices": [
+      3,
+      17,
+      1,
+      0,
+      24
+    ],
+    "word": "ثعبان",
+    "vocalized": "ثُعْبَان",
+    "meaning": "snake",
+    "amharic": "እባብ",
+    "emoji": "✨",
+    "transliteration": "thuʿbaān",
+    "section": "4. ث (Thaa)",
+    "example_of": "Thu (Short u) · start of word · በ መጀመሪያ",
+    "audioId": "w050"
+  },
+  {
+    "id": "w051",
+    "indices": [
+      3,
+      0,
+      24,
+      27
+    ],
+    "word": "ثاني",
+    "vocalized": "ثَانِي",
+    "meaning": "second",
+    "amharic": "ሁለተኛ",
+    "emoji": "✨",
+    "transliteration": "thaāniy",
+    "section": "4. ث (Thaa)",
+    "example_of": "Thaa (Long aa) · start of word · በ መጀመሪያ",
+    "audioId": "w051"
+  },
+  {
+    "id": "w052",
+    "indices": [
+      23,
+      27,
+      3,
+      0,
+      20
+    ],
+    "word": "ميثاق",
+    "vocalized": "مِيثَاق",
+    "meaning": "covenant; pact",
+    "amharic": "ቃል ኪዳን",
+    "emoji": "✨",
+    "transliteration": "miythaāq",
+    "section": "4. ث (Thaa)",
+    "example_of": "Thaa (Long aa) · middle of word · በ መሃከል",
+    "audioId": "w052"
+  },
+  {
+    "id": "w053",
+    "indices": [
+      3,
+      27,
+      9,
+      0,
+      24
+    ],
+    "word": "ثيران",
+    "vocalized": "ثِيرَان",
+    "meaning": "bulls",
+    "amharic": "በሬዎች",
+    "emoji": "✨",
+    "transliteration": "thiyraān",
+    "section": "4. ث (Thaa)",
+    "example_of": "Thee / Thii (Long ee) · start of word · በ መጀመሪያ",
+    "audioId": "w053"
+  },
+  {
+    "id": "w054",
+    "indices": [
+      3,
+      26,
+      23
+    ],
+    "word": "ثوم",
+    "vocalized": "ثُوم",
+    "meaning": "garlic",
+    "amharic": "ነጭ ሽንኩርት",
+    "emoji": "✨",
+    "transliteration": "thuwm",
+    "section": "4. ث (Thaa)",
+    "example_of": "Thoo / Thuu (Long oo) · start of word · በ መጀመሪያ",
+    "audioId": "w054"
+  },
+  {
+    "id": "w055",
+    "indices": [
+      3,
+      17,
+      22,
+      1
+    ],
+    "word": "ثعلب",
+    "vocalized": "ثَعْلَب",
+    "meaning": "fox",
+    "amharic": "ቀበሮ",
+    "emoji": "🦊",
+    "transliteration": "thaʿlab",
+    "section": "4. ث (Thaa)",
+    "example_of": "Tha (Initial short a) · start of word · በ መጀመሪያ",
+    "audioId": "w055"
+  },
+  {
+    "id": "w056",
+    "indices": [
+      0,
+      3,
+      9
+    ],
+    "word": "أثر",
+    "vocalized": "أَثَر",
+    "meaning": "trace; effect",
+    "amharic": "ዱካ፤ ተፅዕኖ",
+    "emoji": "✨",
+    "transliteration": "'aathar",
+    "section": "4. ث (Thaa)",
+    "example_of": "Tha (Medial short a) · middle of word · በ መሃከል",
+    "audioId": "w056"
+  },
+  {
+    "id": "w057",
+    "indices": [
+      23,
+      26,
+      9,
+      3
+    ],
+    "word": "مورث",
+    "vocalized": "مُوَرِّث",
+    "meaning": "heir; inheritor",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "✨",
+    "transliteration": "muwarith",
+    "section": "4. ث (Thaa)",
+    "example_of": "Tha (Final short a) · end of word · በ መጨረሻ",
+    "audioId": "w057"
+  },
+  {
+    "id": "w058",
+    "indices": [
+      4,
+      23,
+      22
+    ],
+    "word": "جمل",
+    "vocalized": "جَمَل",
+    "meaning": "camel",
+    "amharic": "ግመል",
+    "emoji": "🐪",
+    "transliteration": "jamal",
+    "section": "5. ج (Jeem)",
+    "example_of": "Ja (Short a) · start of word · በ መጀመሪያ",
+    "audioId": "w058"
+  },
+  {
+    "id": "w059",
+    "indices": [
+      12,
+      4,
+      9
+    ],
+    "word": "شجر",
+    "vocalized": "شَجَر",
+    "meaning": "trees",
+    "amharic": "ዛፎች",
+    "emoji": "🌳",
+    "transliteration": "shajar",
+    "section": "5. ج (Jeem)",
+    "example_of": "Ja (Short a) · middle of word · በ መሃከል | Ja (Medial short a) · middle of word · በ መሃከል",
+    "audioId": "w059"
+  },
+  {
+    "id": "w060",
+    "indices": [
+      4,
+      11,
+      23
+    ],
+    "word": "جسم",
+    "vocalized": "جِسْم",
+    "meaning": "body",
+    "amharic": "አካል",
+    "emoji": "✨",
+    "transliteration": "jism",
+    "section": "5. ج (Jeem)",
+    "example_of": "Ji (Short i) · start of word · በ መጀመሪያ",
+    "audioId": "w060"
+  },
+  {
+    "id": "w061",
+    "indices": [
+      4,
+      1,
+      24
+    ],
+    "word": "جبن",
+    "vocalized": "جُبْن",
+    "meaning": "cheese",
+    "amharic": "አይብ",
+    "emoji": "✨",
+    "transliteration": "jubn",
+    "section": "5. ج (Jeem)",
+    "example_of": "Ju (Short u) · start of word · በ መጀመሪያ",
+    "audioId": "w061"
+  },
+  {
+    "id": "w062",
+    "indices": [
+      4,
+      0,
+      9
+    ],
+    "word": "جار",
+    "vocalized": "جَار",
+    "meaning": "neighbor",
+    "amharic": "ጎረቤት",
+    "emoji": "✨",
+    "transliteration": "jaār",
+    "section": "5. ج (Jeem)",
+    "example_of": "Jaa (Long aa) · start of word · በ መጀመሪያ",
+    "audioId": "w062"
+  },
+  {
+    "id": "w063",
+    "indices": [
+      12,
+      4,
+      0,
+      9
+    ],
+    "word": "شجار",
+    "vocalized": "شَجَار",
+    "meaning": "quarrel; dispute",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "✨",
+    "transliteration": "shajaār",
+    "section": "5. ج (Jeem)",
+    "example_of": "Jaa (Long aa) · middle of word · በ መሃከል",
+    "audioId": "w063"
+  },
+  {
+    "id": "w064",
+    "indices": [
+      4,
+      27,
+      22
+    ],
+    "word": "جيل",
+    "vocalized": "جِيل",
+    "meaning": "generation",
+    "amharic": "ትውልድ",
+    "emoji": "✨",
+    "transliteration": "jiyl",
+    "section": "5. ج (Jeem)",
+    "example_of": "Jee / Jii (Long ee) · start of word · በ መጀመሪያ",
+    "audioId": "w064"
+  },
+  {
+    "id": "w065",
+    "indices": [
+      23,
+      4,
+      27,
+      7
+    ],
+    "word": "مجيد",
+    "vocalized": "مَجِيد",
+    "meaning": "glorious",
+    "amharic": "ክቡር",
+    "emoji": "✨",
+    "transliteration": "majiyd",
+    "section": "5. ج (Jeem)",
+    "example_of": "Jee / Jii (Long ee) · middle of word · በ መሃከል",
+    "audioId": "w065"
+  },
+  {
+    "id": "w066",
+    "indices": [
+      4,
+      26,
+      17
+    ],
+    "word": "جوع",
+    "vocalized": "جُوع",
+    "meaning": "hunger",
+    "amharic": "ረሃብ",
+    "emoji": "✨",
+    "transliteration": "juwʿ",
+    "section": "5. ج (Jeem)",
+    "example_of": "Joo / Juu (Long oo) · start of word · በ መጀመሪያ",
+    "audioId": "w066"
+  },
+  {
+    "id": "w067",
+    "indices": [
+      17,
+      4,
+      26,
+      1
+    ],
+    "word": "عجوب",
+    "vocalized": "عُجُوب",
+    "meaning": "wonders; marvels (uncommon)",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "✨",
+    "transliteration": "ʿujuwb",
+    "section": "5. ج (Jeem)",
+    "example_of": "Joo / Juu (Long oo) · middle of word · በ መሃከል",
+    "audioId": "w067"
+  },
+  {
+    "id": "w068",
+    "indices": [
+      5,
+      4,
+      9
+    ],
+    "word": "حجر",
+    "vocalized": "حَجَر",
+    "meaning": "stone",
+    "amharic": "ድንጋይ",
+    "emoji": "1️⃣",
+    "transliteration": "ḥajar",
+    "section": "6. ح (Haa)",
+    "example_of": "Ha (Short a) · start of word · በ መጀመሪያ",
+    "audioId": "w068"
+  },
+  {
+    "id": "w069",
+    "indices": [
+      11,
+      5,
+      0,
+      1
+    ],
+    "word": "سحاب",
+    "vocalized": "سَحَاب",
+    "meaning": "clouds",
+    "amharic": "ደመናዎች",
+    "emoji": "☁️",
+    "transliteration": "saḥaāb",
+    "section": "6. ح (Haa)",
+    "example_of": "Ha (Short a) · middle of word · በ መሃከል | Haa (Long aa) · middle of word · በ መሃከል",
+    "audioId": "w069"
+  },
+  {
+    "id": "w070",
+    "indices": [
+      5,
+      13,
+      0,
+      24
+    ],
+    "word": "حصان",
+    "vocalized": "حِصَان",
+    "meaning": "horse",
+    "amharic": "ፈረስ",
+    "emoji": "🐎",
+    "transliteration": "ḥiṣaān",
+    "section": "6. ح (Haa)",
+    "example_of": "Hi (Short i) · start of word · በ መጀመሪያ",
+    "audioId": "w070"
+  },
+  {
+    "id": "w071",
+    "indices": [
+      5,
+      1
+    ],
+    "word": "حب",
+    "vocalized": "حُبّ",
+    "meaning": "love",
+    "amharic": "ፍቅር",
+    "emoji": "✨",
+    "transliteration": "ḥub",
+    "section": "6. ح (Haa)",
+    "example_of": "Hu (Short u) · start of word · በ መጀመሪያ",
+    "audioId": "w071"
+  },
+  {
+    "id": "w072",
+    "indices": [
+      5,
+      0,
+      9
+    ],
+    "word": "حار",
+    "vocalized": "حَار",
+    "meaning": "hot",
+    "amharic": "ሞቃት",
+    "emoji": "✨",
+    "transliteration": "ḥaār",
+    "section": "6. ح (Haa)",
+    "example_of": "Haa (Long aa) · start of word · በ መጀመሪያ",
+    "audioId": "w072"
+  },
+  {
+    "id": "w073",
+    "indices": [
+      5,
+      27,
+      2,
+      0,
+      24
+    ],
+    "word": "حيتان",
+    "vocalized": "حِيتَان",
+    "meaning": "whales; large fish",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "🐟",
+    "transliteration": "ḥiytaān",
+    "section": "6. ح (Haa)",
+    "example_of": "Hee / Hii (Long ee) · start of word · በ መጀመሪያ",
+    "audioId": "w073"
+  },
+  {
+    "id": "w074",
+    "indices": [
+      24,
+      5,
+      27,
+      22
+    ],
+    "word": "نحيل",
+    "vocalized": "نَحِيل",
+    "meaning": "thin; slender",
+    "amharic": "ቀጭን",
+    "emoji": "✨",
+    "transliteration": "naḥiyl",
+    "section": "6. ح (Haa)",
+    "example_of": "Hee / Hii (Long ee) · middle of word · በ መሃከል",
+    "audioId": "w074"
+  },
+  {
+    "id": "w075",
+    "indices": [
+      5,
+      26,
+      2
+    ],
+    "word": "حوت",
+    "vocalized": "حُوت",
+    "meaning": "whale; fish",
+    "amharic": "ዓሣ ነባሪ",
+    "emoji": "🐟",
+    "transliteration": "ḥuwt",
+    "section": "6. ح (Haa)",
+    "example_of": "Hoo / Huu (Long oo) · start of word · በ መጀመሪያ",
+    "audioId": "w075"
+  },
+  {
+    "id": "w076",
+    "indices": [
+      1,
+      5,
+      26,
+      9
+    ],
+    "word": "بحور",
+    "vocalized": "بُحُور",
+    "meaning": "seas",
+    "amharic": "ባሕሮች",
+    "emoji": "🌊",
+    "transliteration": "buḥuwr",
+    "section": "6. ح (Haa)",
+    "example_of": "Hoo / Huu (Long oo) · middle of word · በ መሃከል",
+    "audioId": "w076"
+  },
+  {
+    "id": "w077",
+    "indices": [
+      5,
+      1,
+      22
+    ],
+    "word": "حبل",
+    "vocalized": "حَبْل",
+    "meaning": "rope",
+    "amharic": "ገመድ",
+    "emoji": "✨",
+    "transliteration": "ḥabl",
+    "section": "6. ح (Haa)",
+    "example_of": "Ha (Initial short a) · start of word · በ መጀመሪያ",
+    "audioId": "w077"
+  },
+  {
+    "id": "w078",
+    "indices": [
+      22,
+      5,
+      23
+    ],
+    "word": "لحم",
+    "vocalized": "لَحْم",
+    "meaning": "meat",
+    "amharic": "ሥጋ",
+    "emoji": "🥩",
+    "transliteration": "laḥm",
+    "section": "6. ح (Haa)",
+    "example_of": "Ha (Medial short a) · middle of word · በ መሃከል",
+    "audioId": "w078"
+  },
+  {
+    "id": "w079",
+    "indices": [
+      23,
+      22,
+      5
+    ],
+    "word": "ملح",
+    "vocalized": "مِلْح",
+    "meaning": "salt",
+    "amharic": "ጨው",
+    "emoji": "✨",
+    "transliteration": "milḥ",
+    "section": "6. ح (Haa)",
+    "example_of": "Ha (Final short a) · end of word · በ መጨረሻ",
+    "audioId": "w079"
+  },
+  {
+    "id": "w080",
+    "indices": [
+      6,
+      12,
+      1
+    ],
+    "word": "خشب",
+    "vocalized": "خَشَب",
+    "meaning": "wood",
+    "amharic": "እንጨት",
+    "emoji": "✨",
+    "transliteration": "khashab",
+    "section": "7. خ (Khaa)",
+    "example_of": "Kha (Short a) · start of word · በ መጀመሪያ | Kha (Initial short a) · start of word · በ መጀመሪያ | Sha (Short a) · middle of word · በ መሃከል | Sha (Medial short a) · middle of word · በ መሃከል",
+    "audioId": "w080"
+  },
+  {
+    "id": "w081",
+    "indices": [
+      15,
+      1,
+      6
+    ],
+    "word": "طبخ",
+    "vocalized": "طَبَخَ",
+    "meaning": "he cooked",
+    "amharic": "አበሰለ",
+    "emoji": "🧑‍🍳",
+    "transliteration": "ṭabakha",
+    "section": "7. خ (Khaa)",
+    "example_of": "Kha (Short a) · end of word · በ መጨረሻ",
+    "audioId": "w081"
+  },
+  {
+    "id": "w082",
+    "indices": [
+      6,
+      2,
+      0,
+      23
+    ],
+    "word": "ختام",
+    "vocalized": "خِتَام",
+    "meaning": "ending; conclusion",
+    "amharic": "መጨረሻ",
+    "emoji": "✨",
+    "transliteration": "khitaām",
+    "section": "7. خ (Khaa)",
+    "example_of": "Khi (Short i) · start of word · በ መጀመሪያ",
+    "audioId": "w082"
+  },
+  {
+    "id": "w083",
+    "indices": [
+      6,
+      11,
+      9
+    ],
+    "word": "خسر",
+    "vocalized": "خُسْر",
+    "meaning": "loss",
+    "amharic": "ኪሳራ",
+    "emoji": "✨",
+    "transliteration": "khusr",
+    "section": "7. خ (Khaa)",
+    "example_of": "Khu (Short u) · start of word · በ መጀመሪያ",
+    "audioId": "w083"
+  },
+  {
+    "id": "w084",
+    "indices": [
+      6,
+      0,
+      2,
+      23
+    ],
+    "word": "خاتم",
+    "vocalized": "خَاتَم",
+    "meaning": "ring; seal",
+    "amharic": "ቀለበት",
+    "emoji": "🌊",
+    "transliteration": "khaātam",
+    "section": "7. خ (Khaa)",
+    "example_of": "Khaa (Long aa) · start of word · በ መጀመሪያ",
+    "audioId": "w084"
+  },
+  {
+    "id": "w085",
+    "indices": [
+      24,
+      6,
+      0,
+      22
+    ],
+    "word": "نخال",
+    "vocalized": "نَخَال",
+    "meaning": "bran; unclear as written",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "✨",
+    "transliteration": "nakhaāl",
+    "section": "7. خ (Khaa)",
+    "example_of": "Khaa (Long aa) · middle of word · በ መሃከል",
+    "audioId": "w085"
+  },
+  {
+    "id": "w086",
+    "indices": [
+      11,
+      6,
+      0
+    ],
+    "word": "سخا",
+    "vocalized": "سَخَا",
+    "meaning": "he was generous (rare form)",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "✨",
+    "transliteration": "sakhaā",
+    "section": "7. خ (Khaa)",
+    "example_of": "Khaa (Long aa) · end of word · በ መጨረሻ",
+    "audioId": "w086"
+  },
+  {
+    "id": "w087",
+    "indices": [
+      24,
+      6,
+      27,
+      22
+    ],
+    "word": "نخيل",
+    "vocalized": "نَخِيل",
+    "meaning": "palm trees",
+    "amharic": "የዘንባባ ዛፎች",
+    "emoji": "🌳",
+    "transliteration": "nakhiyl",
+    "section": "7. خ (Khaa)",
+    "example_of": "Khee / Khii (Long ee) · middle of word · በ መሃከል",
+    "audioId": "w087"
+  },
+  {
+    "id": "w088",
+    "indices": [
+      1,
+      6,
+      26,
+      9
+    ],
+    "word": "بخور",
+    "vocalized": "بُخُور",
+    "meaning": "incense",
+    "amharic": "ዕጣን",
+    "emoji": "✨",
+    "transliteration": "bukhuwr",
+    "section": "7. خ (Khaa)",
+    "example_of": "Khoo / Khuu (Long oo) · middle of word · በ መሃከል",
+    "audioId": "w088"
+  },
+  {
+    "id": "w089",
+    "indices": [
+      2,
+      0,
+      9,
+      27,
+      6
+    ],
+    "word": "تاريخ",
+    "vocalized": "تَارِيخ",
+    "meaning": "history; date",
+    "amharic": "ታሪክ",
+    "emoji": "✨",
+    "transliteration": "taāriykh",
+    "section": "7. خ (Khaa)",
+    "example_of": "Kha (Final short a) · end of word · በ መጨረሻ",
+    "audioId": "w089"
+  },
+  {
+    "id": "w090",
+    "indices": [
+      7,
+      9,
+      11
+    ],
+    "word": "درس",
+    "vocalized": "دَرْس",
+    "meaning": "lesson",
+    "amharic": "ትምህርት",
+    "emoji": "👶",
+    "transliteration": "dars",
+    "section": "8. د (Daal)",
+    "example_of": "Da (Short a) · start of word · በ መጀመሪያ | Da (Initial short a) · start of word · በ መጀመሪያ",
+    "audioId": "w090"
+  },
+  {
+    "id": "w091",
+    "indices": [
+      7,
+      27,
+      21
+    ],
+    "word": "ديك",
+    "vocalized": "دِيك",
+    "meaning": "rooster",
+    "amharic": "ዶሮ ወንድ",
+    "emoji": "🐓",
+    "transliteration": "diyk",
+    "section": "8. د (Daal)",
+    "example_of": "Di (Short i) · start of word · በ መጀመሪያ",
+    "audioId": "w091"
+  },
+  {
+    "id": "w092",
+    "indices": [
+      7,
+      1
+    ],
+    "word": "دب",
+    "vocalized": "دُبّ",
+    "meaning": "bear",
+    "amharic": "ድብ",
+    "emoji": "🐻",
+    "transliteration": "dub",
+    "section": "8. د (Daal)",
+    "example_of": "Du (Short u) · start of word · በ መጀመሪያ",
+    "audioId": "w092"
+  },
+  {
+    "id": "w093",
+    "indices": [
+      7,
+      0,
+      9
+    ],
+    "word": "دار",
+    "vocalized": "دَار",
+    "meaning": "house; home",
+    "amharic": "ቤት",
+    "emoji": "🏠",
+    "transliteration": "daār",
+    "section": "8. د (Daal)",
+    "example_of": "Daa (Long aa) · start of word · በ መጀመሪያ",
+    "audioId": "w093"
+  },
+  {
+    "id": "w094",
+    "indices": [
+      23,
+      7,
+      0,
+      9,
+      11
+    ],
+    "word": "مدارس",
+    "vocalized": "مَدَارِس",
+    "meaning": "schools",
+    "amharic": "ትምህርት ቤቶች",
+    "emoji": "🏫",
+    "transliteration": "madaāris",
+    "section": "8. د (Daal)",
+    "example_of": "Daa (Long aa) · middle of word · በ መሃከል",
+    "audioId": "w094"
+  },
+  {
+    "id": "w095",
+    "indices": [
+      1,
+      7,
+      0
+    ],
+    "word": "بدا",
+    "vocalized": "بَدَا",
+    "meaning": "he appeared; began",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "✨",
+    "transliteration": "badaā",
+    "section": "8. د (Daal)",
+    "example_of": "Daa (Long aa) · end of word · በ መጨረሻ",
+    "audioId": "w095"
+  },
+  {
+    "id": "w096",
+    "indices": [
+      23,
+      7,
+      27,
+      24,
+      2
+    ],
+    "word": "مدينة",
+    "vocalized": "مَدِينَة",
+    "meaning": "city",
+    "amharic": "ከተማ",
+    "emoji": "🏙️",
+    "transliteration": "madiynaa",
+    "section": "8. د (Daal)",
+    "example_of": "Dee / Dii (Long ee) · middle of word · በ መሃከል",
+    "audioId": "w096"
+  },
+  {
+    "id": "w097",
+    "indices": [
+      26,
+      0,
+      7,
+      27
+    ],
+    "word": "وادي",
+    "vocalized": "وَادِي",
+    "meaning": "valley",
+    "amharic": "ሸለቆ",
+    "emoji": "✨",
+    "transliteration": "waādiy",
+    "section": "8. د (Daal)",
+    "example_of": "Dee / Dii (Long ee) · end of word · በ መጨረሻ",
+    "audioId": "w097"
+  },
+  {
+    "id": "w098",
+    "indices": [
+      7,
+      26,
+      7
+    ],
+    "word": "دود",
+    "vocalized": "دُود",
+    "meaning": "worms",
+    "amharic": "ትሎች",
+    "emoji": "✨",
+    "transliteration": "duwd",
+    "section": "8. د (Daal)",
+    "example_of": "Doo / Duu (Long oo) · start of word · በ መጀመሪያ",
+    "audioId": "w098"
+  },
+  {
+    "id": "w099",
+    "indices": [
+      20,
+      7,
+      23
+    ],
+    "word": "قدم",
+    "vocalized": "قَدَم",
+    "meaning": "foot",
+    "amharic": "እግር",
+    "emoji": "✨",
+    "transliteration": "qadam",
+    "section": "8. د (Daal)",
+    "example_of": "Da (Medial/Final short a) · middle of word · በ መሃከል",
+    "audioId": "w099"
+  },
+  {
+    "id": "w100",
+    "indices": [
+      1,
+      17,
+      7
+    ],
+    "word": "بعد",
+    "vocalized": "بَعْدَ",
+    "meaning": "after",
+    "amharic": "በኋላ",
+    "emoji": "✨",
+    "transliteration": "baʿda",
+    "section": "8. د (Daal)",
+    "example_of": "Da (Medial/Final short a) · end of word · በ መጨረሻ",
+    "audioId": "w100"
+  },
+  {
+    "id": "w101",
+    "indices": [
+      8,
+      25,
+      1
+    ],
+    "word": "ذهب",
+    "vocalized": "ذَهَب",
+    "meaning": "gold",
+    "amharic": "ወርቅ",
+    "emoji": "🪙",
+    "transliteration": "dhahab",
+    "section": "9. ذ (Dhaal)",
+    "example_of": "Dha (Short a) · start of word · በ መጀመሪያ | Dha (Initial short a) · start of word · በ መጀመሪያ",
+    "audioId": "w101"
+  },
+  {
+    "id": "w102",
+    "indices": [
+      0,
+      6,
+      8
+    ],
+    "word": "أخذ",
+    "vocalized": "أَخَذَ",
+    "meaning": "he took",
+    "amharic": "ወሰደ",
+    "emoji": "✨",
+    "transliteration": "'aakhadha",
+    "section": "9. ذ (Dhaal)",
+    "example_of": "Dha (Short a) · end of word · በ መጨረሻ | Dha (Medial/Final short a) · end of word · በ መጨረሻ",
+    "audioId": "w102"
+  },
+  {
+    "id": "w103",
+    "indices": [
+      8,
+      0,
+      1
+    ],
+    "word": "ذئب",
+    "vocalized": "ذِئْب",
+    "meaning": "wolf",
+    "amharic": "ተኩላ",
+    "emoji": "🐺",
+    "transliteration": "dhi'ib",
+    "section": "9. ذ (Dhaal)",
+    "example_of": "Dhi (Short i) · start of word · በ መጀመሪያ",
+    "audioId": "w103"
+  },
+  {
+    "id": "w104",
+    "indices": [
+      8,
+      1,
+      0,
+      1
+    ],
+    "word": "ذباب",
+    "vocalized": "ذُبَاب",
+    "meaning": "flies",
+    "amharic": "ዝንቦች",
+    "emoji": "🪰",
+    "transliteration": "dhubaāb",
+    "section": "9. ذ (Dhaal)",
+    "example_of": "Dhu (Short u) · start of word · በ መጀመሪያ",
+    "audioId": "w104"
+  },
+  {
+    "id": "w105",
+    "indices": [
+      8,
+      0,
+      2
+    ],
+    "word": "ذات",
+    "vocalized": "ذَات",
+    "meaning": "self; ذات (feminine of possessor)",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "✨",
+    "transliteration": "dhaāt",
+    "section": "9. ذ (Dhaal)",
+    "example_of": "Dhaa (Long aa) · start of word · በ መጀመሪያ",
+    "audioId": "w105"
+  },
+  {
+    "id": "w106",
+    "indices": [
+      5,
+      8,
+      0
+    ],
+    "word": "حذا",
+    "vocalized": "حَذَا",
+    "meaning": "he followed in someone's footsteps; unclear",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "1️⃣",
+    "transliteration": "ḥadhaā",
+    "section": "9. ذ (Dhaal)",
+    "example_of": "Dhaa (Long aa) · end of word · በ መጨረሻ",
+    "audioId": "w106"
+  },
+  {
+    "id": "w107",
+    "indices": [
+      0,
+      8,
+      27,
+      24
+    ],
+    "word": "أذين",
+    "vocalized": "أَذِين",
+    "meaning": "unclear as written",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "✨",
+    "transliteration": "'aadhiyn",
+    "section": "9. ذ (Dhaal)",
+    "example_of": "Dhee / Dhii (Long ee) · middle of word · በ መሃከል",
+    "audioId": "w107"
+  },
+  {
+    "id": "w108",
+    "indices": [
+      1,
+      8,
+      26,
+      9
+    ],
+    "word": "بذور",
+    "vocalized": "بُذُور",
+    "meaning": "seeds",
+    "amharic": "ዘሮች",
+    "emoji": "✨",
+    "transliteration": "budhuwr",
+    "section": "9. ذ (Dhaal)",
+    "example_of": "Dhoo / Dhuu (Long oo) · middle of word · በ መሃከል",
+    "audioId": "w108"
+  },
+  {
+    "id": "w109",
+    "indices": [
+      9,
+      4,
+      22
+    ],
+    "word": "رجل",
+    "vocalized": "رَجُل",
+    "meaning": "man",
+    "amharic": "ወንድ፤ ሰው",
+    "emoji": "👨",
+    "transliteration": "rajul",
+    "section": "10. ر (Raa)",
+    "example_of": "Ra (Short a) · start of word · በ መጀመሪያ",
+    "audioId": "w109"
+  },
+  {
+    "id": "w110",
+    "indices": [
+      9,
+      11,
+      0,
+      22,
+      2
+    ],
+    "word": "رسالة",
+    "vocalized": "رِسَالَة",
+    "meaning": "letter; message",
+    "amharic": "ደብዳቤ፤ መልእክት",
+    "emoji": "✨",
+    "transliteration": "risaālaa",
+    "section": "10. ر (Raa)",
+    "example_of": "Ri (Short i) · start of word · በ መጀመሪያ",
+    "audioId": "w110"
+  },
+  {
+    "id": "w111",
+    "indices": [
+      9,
+      23,
+      0,
+      24
+    ],
+    "word": "رمان",
+    "vocalized": "رُمَّان",
+    "meaning": "pomegranate",
+    "amharic": "ሮማን",
+    "emoji": "✨",
+    "transliteration": "rumaān",
+    "section": "10. ر (Raa)",
+    "example_of": "Ru (Short u) · start of word · በ መጀመሪያ",
+    "audioId": "w111"
+  },
+  {
+    "id": "w112",
+    "indices": [
+      9,
+      0,
+      1,
+      15
+    ],
+    "word": "رابط",
+    "vocalized": "رَابِط",
+    "meaning": "link; bond",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "🔗",
+    "transliteration": "raābiṭ",
+    "section": "10. ر (Raa)",
+    "example_of": "Raa (Long aa) · start of word · በ መጀመሪያ",
+    "audioId": "w112"
+  },
+  {
+    "id": "w113",
+    "indices": [
+      20,
+      9,
+      0,
+      9
+    ],
+    "word": "قرار",
+    "vocalized": "قَرَار",
+    "meaning": "decision",
+    "amharic": "ውሳኔ",
+    "emoji": "✨",
+    "transliteration": "qaraār",
+    "section": "10. ر (Raa)",
+    "example_of": "Raa (Long aa) · middle of word · በ መሃከል",
+    "audioId": "w113"
+  },
+  {
+    "id": "w114",
+    "indices": [
+      9,
+      27,
+      12
+    ],
+    "word": "ريش",
+    "vocalized": "رِيش",
+    "meaning": "feathers",
+    "amharic": "ላባዎች",
+    "emoji": "✨",
+    "transliteration": "riysh",
+    "section": "10. ر (Raa)",
+    "example_of": "Ree / Rii (Long ee) · start of word · በ መጀመሪያ",
+    "audioId": "w114"
+  },
+  {
+    "id": "w115",
+    "indices": [
+      9,
+      26,
+      5
+    ],
+    "word": "روح",
+    "vocalized": "رُوح",
+    "meaning": "soul; spirit",
+    "amharic": "ነፍስ",
+    "emoji": "✨",
+    "transliteration": "ruwḥ",
+    "section": "10. ر (Raa)",
+    "example_of": "Roo / Ruu (Long oo) · start of word · በ መጀመሪያ",
+    "audioId": "w115"
+  },
+  {
+    "id": "w116",
+    "indices": [
+      9,
+      1,
+      27,
+      17
+    ],
+    "word": "ربيع",
+    "vocalized": "رَبِيع",
+    "meaning": "spring",
+    "amharic": "ጸደይ",
+    "emoji": "💍",
+    "transliteration": "rabiyʿ",
+    "section": "10. ر (Raa)",
+    "example_of": "Ra (Initial short a) · start of word · በ መጀመሪያ",
+    "audioId": "w116"
+  },
+  {
+    "id": "w117",
+    "indices": [
+      10,
+      23,
+      0,
+      24
+    ],
+    "word": "زمان",
+    "vocalized": "زَمَان",
+    "meaning": "time; era",
+    "amharic": "ጊዜ",
+    "emoji": "⏰",
+    "transliteration": "zamaān",
+    "section": "11. ز (Zaay)",
+    "example_of": "Za (Short a) · start of word · በ መጀመሪያ | Za (Initial short a) · start of word · በ መጀመሪያ",
+    "audioId": "w117"
+  },
+  {
+    "id": "w118",
+    "indices": [
+      10,
+      27,
+      9
+    ],
+    "word": "زير",
+    "vocalized": "زِير",
+    "meaning": "large water jar",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "💧",
+    "transliteration": "ziyr",
+    "section": "11. ز (Zaay)",
+    "example_of": "Zi (Short i) · start of word · በ መጀመሪያ",
+    "audioId": "w118"
+  },
+  {
+    "id": "w119",
+    "indices": [
+      10,
+      1,
+      7
+    ],
+    "word": "زبد",
+    "vocalized": "زُبْد",
+    "meaning": "butter",
+    "amharic": "ቅቤ",
+    "emoji": "✨",
+    "transliteration": "zubd",
+    "section": "11. ز (Zaay)",
+    "example_of": "Zu (Short u) · start of word · በ መጀመሪያ",
+    "audioId": "w119"
+  },
+  {
+    "id": "w120",
+    "indices": [
+      10,
+      0,
+      9
+    ],
+    "word": "زار",
+    "vocalized": "زَارَ",
+    "meaning": "he visited",
+    "amharic": "ጎበኘ",
+    "emoji": "✨",
+    "transliteration": "zaāra",
+    "section": "11. ز (Zaay)",
+    "example_of": "Zaa (Long aa) · start of word · በ መጀመሪያ",
+    "audioId": "w120"
+  },
+  {
+    "id": "w121",
+    "indices": [
+      23,
+      10,
+      0,
+      9
+    ],
+    "word": "مزار",
+    "vocalized": "مَزَار",
+    "meaning": "shrine; place of visit",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "✨",
+    "transliteration": "mazaār",
+    "section": "11. ز (Zaay)",
+    "example_of": "Zaa (Long aa) · middle of word · በ መሃከል",
+    "audioId": "w121"
+  },
+  {
+    "id": "w122",
+    "indices": [
+      10,
+      27,
+      2
+    ],
+    "word": "زيت",
+    "vocalized": "زِيت",
+    "meaning": "oil",
+    "amharic": "ዘይት",
+    "emoji": "🫒",
+    "transliteration": "ziyt",
+    "section": "11. ز (Zaay)",
+    "example_of": "Zee / Zii (Long ee) · start of word · በ መጀመሪያ",
+    "audioId": "w122"
+  },
+  {
+    "id": "w123",
+    "indices": [
+      10,
+      26,
+      9
+    ],
+    "word": "زور",
+    "vocalized": "زُور",
+    "meaning": "falsehood;زور",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "✨",
+    "transliteration": "zuwr",
+    "section": "11. ز (Zaay)",
+    "example_of": "Zoo / Zuu (Long oo) · start of word · በ መጀመሪያ",
+    "audioId": "w123"
+  },
+  {
+    "id": "w124",
+    "indices": [
+      6,
+      1,
+      10
+    ],
+    "word": "خبز",
+    "vocalized": "خُبْز",
+    "meaning": "bread",
+    "amharic": "ዳቦ",
+    "emoji": "📖",
+    "transliteration": "khubz",
+    "section": "11. ز (Zaay)",
+    "example_of": "Za (Final short a) · end of word · በ መጨረሻ",
+    "audioId": "w124"
+  },
+  {
+    "id": "w125",
+    "indices": [
+      11,
+      23,
+      21
+    ],
+    "word": "سمك",
+    "vocalized": "سَمَك",
+    "meaning": "fish",
+    "amharic": "ዓሣ",
+    "emoji": "🐟",
+    "transliteration": "samak",
+    "section": "12. س (Seen)",
+    "example_of": "Sa (Short a) · start of word · በ መጀመሪያ | Sa (Initial short a) · start of word · በ መጀመሪያ | Ka (Final short a) · end of word · በ መጨረሻ | Ma (Medial short a) · middle of word · በ መሃከል",
+    "audioId": "w125"
+  },
+  {
+    "id": "w126",
+    "indices": [
+      11,
+      24
+    ],
+    "word": "سن",
+    "vocalized": "سِنّ",
+    "meaning": "tooth; age",
+    "amharic": "ጥርስ፤ ዕድሜ",
+    "emoji": "🦷",
+    "transliteration": "sin",
+    "section": "12. س (Seen)",
+    "example_of": "Si (Short i) · start of word · በ መጀመሪያ",
+    "audioId": "w126"
+  },
+  {
+    "id": "w127",
+    "indices": [
+      11,
+      21,
+      9
+    ],
+    "word": "سكر",
+    "vocalized": "سُكَّر",
+    "meaning": "sugar",
+    "amharic": "ስኳር",
+    "emoji": "🍬",
+    "transliteration": "sukar",
+    "section": "12. س (Seen)",
+    "example_of": "Su (Short u) · start of word · በ መጀመሪያ",
+    "audioId": "w127"
+  },
+  {
+    "id": "w128",
+    "indices": [
+      11,
+      0,
+      17,
+      2
+    ],
+    "word": "ساعة",
+    "vocalized": "سَاعَة",
+    "meaning": "hour; clock",
+    "amharic": "ሰዓት",
+    "emoji": "⏰",
+    "transliteration": "saāʿaa",
+    "section": "12. س (Seen)",
+    "example_of": "Saa (Long aa) · start of word · በ መጀመሪያ",
+    "audioId": "w128"
+  },
+  {
+    "id": "w129",
+    "indices": [
+      11,
+      27,
+      24,
+      23,
+      0
+    ],
+    "word": "سينما",
+    "vocalized": "سِينَمَا",
+    "meaning": "cinema",
+    "amharic": "ሲኒማ",
+    "emoji": "✨",
+    "transliteration": "siynamaā",
+    "section": "12. س (Seen)",
+    "example_of": "See / Sii (Long ee) · start of word · በ መጀመሪያ",
+    "audioId": "w129"
+  },
+  {
+    "id": "w130",
+    "indices": [
+      11,
+      26,
+      9
+    ],
+    "word": "سور",
+    "vocalized": "سُور",
+    "meaning": "wall; fence",
+    "amharic": "ግንብ",
+    "emoji": "✨",
+    "transliteration": "suwr",
+    "section": "12. س (Seen)",
+    "example_of": "Soo / Suu (Long oo) · start of word · በ መጀመሪያ",
+    "audioId": "w130"
+  },
+  {
+    "id": "w131",
+    "indices": [
+      23,
+      11,
+      5
+    ],
+    "word": "مسح",
+    "vocalized": "مَسَحَ",
+    "meaning": "he wiped",
+    "amharic": "ጠረገ",
+    "emoji": "✨",
+    "transliteration": "masaḥa",
+    "section": "12. س (Seen)",
+    "example_of": "Sa (Medial short a) · middle of word · በ መሃከል",
+    "audioId": "w131"
+  },
+  {
+    "id": "w132",
+    "indices": [
+      12,
+      23,
+      11
+    ],
+    "word": "شمس",
+    "vocalized": "شَمْس",
+    "meaning": "sun",
+    "amharic": "ፀሐይ",
+    "emoji": "☀️",
+    "transliteration": "shams",
+    "section": "12. س (Seen)",
+    "example_of": "Sa (Final short a) · end of word · በ መጨረሻ | Sha (Short a) · start of word · በ መጀመሪያ | Sha (Initial short a) · start of word · በ መጀመሪያ",
+    "audioId": "w132"
+  },
+  {
+    "id": "w133",
+    "indices": [
+      12,
+      2,
+      0,
+      0
+    ],
+    "word": "شتاء",
+    "vocalized": "شِتَاء",
+    "meaning": "winter",
+    "amharic": "ክረምት",
+    "emoji": "✨",
+    "transliteration": "shitaā'",
+    "section": "13. ش (Sheen)",
+    "example_of": "Shi (Short i) · start of word · በ መጀመሪያ",
+    "audioId": "w133"
+  },
+  {
+    "id": "w134",
+    "indices": [
+      12,
+      9,
+      15,
+      27
+    ],
+    "word": "شرطي",
+    "vocalized": "شُرْطِي",
+    "meaning": "policeman",
+    "amharic": "ፖሊስ",
+    "emoji": "👨",
+    "transliteration": "shurṭiy",
+    "section": "13. ش (Sheen)",
+    "example_of": "Shu (Short u) · start of word · በ መጀመሪያ",
+    "audioId": "w134"
+  },
+  {
+    "id": "w135",
+    "indices": [
+      12,
+      0,
+      9,
+      17
+    ],
+    "word": "شارع",
+    "vocalized": "شَارِع",
+    "meaning": "street",
+    "amharic": "መንገድ",
+    "emoji": "🌳",
+    "transliteration": "shaāriʿ",
+    "section": "13. ش (Sheen)",
+    "example_of": "Shaa (Long aa) · start of word · በ መጀመሪያ",
+    "audioId": "w135"
+  },
+  {
+    "id": "w136",
+    "indices": [
+      12,
+      27,
+      24
+    ],
+    "word": "شين",
+    "vocalized": "شِين",
+    "meaning": "letter sheen (ش)",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "✨",
+    "transliteration": "shiyn",
+    "section": "13. ش (Sheen)",
+    "example_of": "Shee / Shii (Long ee) · start of word · በ መጀመሪያ",
+    "audioId": "w136"
+  },
+  {
+    "id": "w137",
+    "indices": [
+      12,
+      26,
+      9,
+      27
+    ],
+    "word": "شورى",
+    "vocalized": "شُورَى",
+    "meaning": "consultation; shura",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "✨",
+    "transliteration": "shuwraā",
+    "section": "13. ش (Sheen)",
+    "example_of": "Shoo / Shuu (Long oo) · start of word · በ መጀመሪያ",
+    "audioId": "w137"
+  },
+  {
+    "id": "w138",
+    "indices": [
+      17,
+      15,
+      12
+    ],
+    "word": "عطش",
+    "vocalized": "عَطَش",
+    "meaning": "thirst",
+    "amharic": "ጥማት",
+    "emoji": "✨",
+    "transliteration": "ʿaṭash",
+    "section": "13. ش (Sheen)",
+    "example_of": "Sha (Final short a) · end of word · በ መጨረሻ",
+    "audioId": "w138"
+  },
+  {
+    "id": "w139",
+    "indices": [
+      13,
+      20,
+      9
+    ],
+    "word": "صقر",
+    "vocalized": "صَقْر",
+    "meaning": "falcon",
+    "amharic": "ጭላዳ",
+    "emoji": "✨",
+    "transliteration": "ṣaqr",
+    "section": "14. ص (Saad)",
+    "example_of": "Sa (Emphatic Sa) · start of word · በ መጀመሪያ | Sa (Initial short a) · start of word · በ መጀመሪያ",
+    "audioId": "w139"
+  },
+  {
+    "id": "w140",
+    "indices": [
+      1,
+      13,
+      22
+    ],
+    "word": "بصل",
+    "vocalized": "بَصَل",
+    "meaning": "onion",
+    "amharic": "ሽንኩርት",
+    "emoji": "✨",
+    "transliteration": "baṣal",
+    "section": "14. ص (Saad)",
+    "example_of": "Sa (Emphatic Sa) · middle of word · በ መሃከል | Sa (Medial short a) · middle of word · በ መሃከል",
+    "audioId": "w140"
+  },
+  {
+    "id": "w141",
+    "indices": [
+      13,
+      19,
+      9
+    ],
+    "word": "صفر",
+    "vocalized": "صِفْر",
+    "meaning": "zero",
+    "amharic": "ዜሮ",
+    "emoji": "✨",
+    "transliteration": "ṣifr",
+    "section": "14. ص (Saad)",
+    "example_of": "Si (Emphatic Si) · start of word · በ መጀመሪያ",
+    "audioId": "w141"
+  },
+  {
+    "id": "w142",
+    "indices": [
+      13,
+      26,
+      9,
+      2
+    ],
+    "word": "صورة",
+    "vocalized": "صُورَة",
+    "meaning": "picture; image",
+    "amharic": "ምስል",
+    "emoji": "✨",
+    "transliteration": "ṣuwraa",
+    "section": "14. ص (Saad)",
+    "example_of": "Su (Emphatic Su) · start of word · በ መጀመሪያ",
+    "audioId": "w142"
+  },
+  {
+    "id": "w143",
+    "indices": [
+      13,
+      0,
+      1,
+      26,
+      24
+    ],
+    "word": "صابون",
+    "vocalized": "صَابُون",
+    "meaning": "soap",
+    "amharic": "ሳሙና",
+    "emoji": "✨",
+    "transliteration": "ṣaābuwn",
+    "section": "14. ص (Saad)",
+    "example_of": "Saa (Long aa) · start of word · በ መጀመሪያ",
+    "audioId": "w143"
+  },
+  {
+    "id": "w144",
+    "indices": [
+      13,
+      27,
+      24
+    ],
+    "word": "صين",
+    "vocalized": "صِين",
+    "meaning": "China (as written)",
+    "amharic": "ቻይና",
+    "emoji": "✨",
+    "transliteration": "ṣiyn",
+    "section": "14. ص (Saad)",
+    "example_of": "See / Sii (Long ee) · start of word · በ መጀመሪያ",
+    "audioId": "w144"
+  },
+  {
+    "id": "w145",
+    "indices": [
+      1,
+      0,
+      13
+    ],
+    "word": "باص",
+    "vocalized": "باص",
+    "meaning": "bus",
+    "amharic": "አውቶቡስ",
+    "emoji": "✨",
+    "transliteration": "bāṣ",
+    "section": "14. ص (Saad)",
+    "example_of": "Sa (Final short a) · end of word · በ መጨረሻ",
+    "audioId": "w145"
+  },
+  {
+    "id": "w146",
+    "indices": [
+      14,
+      0,
+      1,
+      15
+    ],
+    "word": "ضابط",
+    "vocalized": "ضَابِط",
+    "meaning": "officer",
+    "amharic": "መኮንን",
+    "emoji": "🏢",
+    "transliteration": "ḍaābiṭ",
+    "section": "15. ض (Daad)",
+    "example_of": "Da (Emphatic Da) · start of word · በ መጀመሪያ | Daa (Long aa) · start of word · በ መጀመሪያ | Da (Initial short a) · start of word · በ መጀመሪያ",
+    "audioId": "w146"
+  },
+  {
+    "id": "w147",
+    "indices": [
+      14,
+      19,
+      2
+    ],
+    "word": "ضفة",
+    "vocalized": "ضِفَّة",
+    "meaning": "bank; shore",
+    "amharic": "ዳርቻ",
+    "emoji": "✨",
+    "transliteration": "ḍifaa",
+    "section": "15. ض (Daad)",
+    "example_of": "Di (Emphatic Di) · start of word · በ መጀመሪያ",
+    "audioId": "w147"
+  },
+  {
+    "id": "w148",
+    "indices": [
+      14,
+      5,
+      27
+    ],
+    "word": "ضحى",
+    "vocalized": "ضُحَى",
+    "meaning": "forenoon",
+    "amharic": "ቀትር በፊት",
+    "emoji": "✨",
+    "transliteration": "ḍuḥaā",
+    "section": "15. ض (Daad)",
+    "example_of": "Du (Emphatic Du) · start of word · በ መጀመሪያ",
+    "audioId": "w148"
+  },
+  {
+    "id": "w149",
+    "indices": [
+      9,
+      14,
+      0,
+      0
+    ],
+    "word": "رضاء",
+    "vocalized": "رِضَاء",
+    "meaning": "satisfaction; approval",
+    "amharic": "እርካታ",
+    "emoji": "✨",
+    "transliteration": "riḍaā'",
+    "section": "15. ض (Daad)",
+    "example_of": "Daa (Long aa) · middle of word · በ መሃከል",
+    "audioId": "w149"
+  },
+  {
+    "id": "w150",
+    "indices": [
+      14,
+      27,
+      0,
+      0
+    ],
+    "word": "ضياء",
+    "vocalized": "ضِيَاء",
+    "meaning": "light; radiance",
+    "amharic": "ብርሃን",
+    "emoji": "💡",
+    "transliteration": "ḍiyaā'",
+    "section": "15. ض (Daad)",
+    "example_of": "Dee / Dii (Long ee) · start of word · በ መጀመሪያ",
+    "audioId": "w150"
+  },
+  {
+    "id": "w151",
+    "indices": [
+      14,
+      26,
+      2
+    ],
+    "word": "ضوة",
+    "vocalized": "ضُوَّة",
+    "meaning": "unclear/nonstandard spelling",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "✨",
+    "transliteration": "ḍuwaa",
+    "section": "15. ض (Daad)",
+    "example_of": "Doo / Duu (Long oo) · start of word · በ መጀመሪያ",
+    "audioId": "w151"
+  },
+  {
+    "id": "w152",
+    "indices": [
+      0,
+      9,
+      14
+    ],
+    "word": "أرض",
+    "vocalized": "أرض",
+    "meaning": "earth; land",
+    "amharic": "ምድር",
+    "emoji": "🌍",
+    "transliteration": "'arḍ",
+    "section": "15. ض (Daad)",
+    "example_of": "Da (Final short a) · end of word · በ መጨረሻ",
+    "audioId": "w152"
+  },
+  {
+    "id": "w153",
+    "indices": [
+      15,
+      1,
+      20
+    ],
+    "word": "طبق",
+    "vocalized": "طَبَق",
+    "meaning": "plate; dish; layer",
+    "amharic": "ሳህን፤ ንብርብር",
+    "emoji": "🍽️",
+    "transliteration": "ṭabaq",
+    "section": "16. ط (Taa emphatic)",
+    "example_of": "Ta (Emphatic Ta) · start of word · በ መጀመሪያ",
+    "audioId": "w153"
+  },
+  {
+    "id": "w154",
+    "indices": [
+      20,
+      15,
+      9
+    ],
+    "word": "قطر",
+    "vocalized": "قَطَرَ",
+    "meaning": "he dripped; قطرَ (context-dependent)",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "✏️",
+    "transliteration": "qaṭara",
+    "section": "16. ط (Taa emphatic)",
+    "example_of": "Ta (Emphatic Ta) · middle of word · በ መሃከል",
+    "audioId": "w154"
+  },
+  {
+    "id": "w155",
+    "indices": [
+      15,
+      19,
+      22
+    ],
+    "word": "طفل",
+    "vocalized": "طِفْل",
+    "meaning": "child",
+    "amharic": "ልጅ",
+    "emoji": "✨",
+    "transliteration": "ṭifl",
+    "section": "16. ط (Taa emphatic)",
+    "example_of": "Ti (Emphatic Ti) · start of word · በ መጀመሪያ",
+    "audioId": "w155"
+  },
+  {
+    "id": "w156",
+    "indices": [
+      15,
+      27,
+      26,
+      9
+    ],
+    "word": "طيور",
+    "vocalized": "طُيُور",
+    "meaning": "birds",
+    "amharic": "ወፎች",
+    "emoji": "🐦",
+    "transliteration": "ṭuyuwr",
+    "section": "16. ط (Taa emphatic)",
+    "example_of": "Tu (Emphatic Tu) · start of word · በ መጀመሪያ",
+    "audioId": "w156"
+  },
+  {
+    "id": "w157",
+    "indices": [
+      15,
+      0,
+      22,
+      1
+    ],
+    "word": "طالب",
+    "vocalized": "طَالِب",
+    "meaning": "student",
+    "amharic": "ተማሪ",
+    "emoji": "🎓",
+    "transliteration": "ṭaālib",
+    "section": "16. ط (Taa emphatic)",
+    "example_of": "Taa (Long aa) · start of word · በ መጀመሪያ",
+    "audioId": "w157"
+  },
+  {
+    "id": "w158",
+    "indices": [
+      15,
+      27,
+      24
+    ],
+    "word": "طين",
+    "vocalized": "طِين",
+    "meaning": "mud; clay",
+    "amharic": "ጭቃ",
+    "emoji": "✨",
+    "transliteration": "ṭiyn",
+    "section": "16. ط (Taa emphatic)",
+    "example_of": "Tee / Tii (Long ee) · start of word · በ መጀመሪያ",
+    "audioId": "w158"
+  },
+  {
+    "id": "w159",
+    "indices": [
+      15,
+      26,
+      22
+    ],
+    "word": "طول",
+    "vocalized": "طُول",
+    "meaning": "length; height",
+    "amharic": "ርዝመት፤ ቁመት",
+    "emoji": "✨",
+    "transliteration": "ṭuwl",
+    "section": "16. ط (Taa emphatic)",
+    "example_of": "Too / Tuu (Long oo) · start of word · በ መጀመሪያ",
+    "audioId": "w159"
+  },
+  {
+    "id": "w160",
+    "indices": [
+      15,
+      0,
+      0,
+      9,
+      2
+    ],
+    "word": "طائرة",
+    "vocalized": "طَائِرَة",
+    "meaning": "airplane",
+    "amharic": "አውሮፕላን",
+    "emoji": "✈️",
+    "transliteration": "ṭaā'iiraa",
+    "section": "16. ط (Taa emphatic)",
+    "example_of": "Ta (Initial short a) · start of word · በ መጀመሪያ",
+    "audioId": "w160"
+  },
+  {
+    "id": "w161",
+    "indices": [
+      6,
+      27,
+      0,
+      15
+    ],
+    "word": "خياط",
+    "vocalized": "خَيَّاط",
+    "meaning": "tailor",
+    "amharic": "ልብስ ሰፊ",
+    "emoji": "🐕",
+    "transliteration": "khayaāṭ",
+    "section": "16. ط (Taa emphatic)",
+    "example_of": "Ta (Final short a) · end of word · በ መጨረሻ",
+    "audioId": "w161"
+  },
+  {
+    "id": "w162",
+    "indices": [
+      16,
+      9,
+      19
+    ],
+    "word": "ظرف",
+    "vocalized": "ظَرْف",
+    "meaning": "envelope; circumstance",
+    "amharic": "ፖስታ፤ ሁኔታ",
+    "emoji": "✨",
+    "transliteration": "ẓarf",
+    "section": "17. ظ (Zhaa)",
+    "example_of": "Dha (Emphatic Dha) · start of word · በ መጀመሪያ | Dha (Initial short a) · start of word · በ መጀመሪያ",
+    "audioId": "w162"
+  },
+  {
+    "id": "w163",
+    "indices": [
+      24,
+      16,
+      9
+    ],
+    "word": "نظر",
+    "vocalized": "نَظَرَ",
+    "meaning": "he looked",
+    "amharic": "ተመለከተ",
+    "emoji": "✨",
+    "transliteration": "naẓara",
+    "section": "17. ظ (Zhaa)",
+    "example_of": "Dha (Emphatic Dha) · middle of word · በ መሃከል",
+    "audioId": "w163"
+  },
+  {
+    "id": "w164",
+    "indices": [
+      5,
+      19,
+      16
+    ],
+    "word": "حفظ",
+    "vocalized": "حَفِظَ",
+    "meaning": "he memorized; protected",
+    "amharic": "አስታወሰ፤ ጠበቀ",
+    "emoji": "✨",
+    "transliteration": "ḥafiẓa",
+    "section": "17. ظ (Zhaa)",
+    "example_of": "Dha (Emphatic Dha) · end of word · በ መጨረሻ",
+    "audioId": "w164"
+  },
+  {
+    "id": "w165",
+    "indices": [
+      16,
+      22
+    ],
+    "word": "ظل",
+    "vocalized": "ظِلّ",
+    "meaning": "shade; shadow",
+    "amharic": "ጥላ",
+    "emoji": "✨",
+    "transliteration": "ẓil",
+    "section": "17. ظ (Zhaa)",
+    "example_of": "Dhi (Emphatic Dhi) · start of word · በ መጀመሪያ",
+    "audioId": "w165"
+  },
+  {
+    "id": "w166",
+    "indices": [
+      16,
+      25,
+      9
+    ],
+    "word": "ظهر",
+    "vocalized": "ظُهْر",
+    "meaning": "noon",
+    "amharic": "ቀትር",
+    "emoji": "✨",
+    "transliteration": "ẓuhr",
+    "section": "17. ظ (Zhaa)",
+    "example_of": "Dhu (Emphatic Dhu) · start of word · በ መጀመሪያ",
+    "audioId": "w166"
+  },
+  {
+    "id": "w167",
+    "indices": [
+      16,
+      0,
+      25,
+      9
+    ],
+    "word": "ظاهر",
+    "vocalized": "ظَاهِر",
+    "meaning": "apparent; visible",
+    "amharic": "ግልጽ፤ የሚታይ",
+    "emoji": "✨",
+    "transliteration": "ẓaāhir",
+    "section": "17. ظ (Zhaa)",
+    "example_of": "Dhaa (Long aa) · start of word · በ መጀመሪያ",
+    "audioId": "w167"
+  },
+  {
+    "id": "w168",
+    "indices": [
+      24,
+      16,
+      0,
+      23
+    ],
+    "word": "نظام",
+    "vocalized": "نِظَام",
+    "meaning": "system; order",
+    "amharic": "ሥርዓት",
+    "emoji": "✨",
+    "transliteration": "niẓaām",
+    "section": "17. ظ (Zhaa)",
+    "example_of": "Dhaa (Long aa) · middle of word · በ መሃከል",
+    "audioId": "w168"
+  },
+  {
+    "id": "w169",
+    "indices": [
+      17,
+      16,
+      27,
+      23
+    ],
+    "word": "عظيم",
+    "vocalized": "عَظِيم",
+    "meaning": "great; mighty",
+    "amharic": "ታላቅ",
+    "emoji": "🌟",
+    "transliteration": "ʿaẓiym",
+    "section": "17. ظ (Zhaa)",
+    "example_of": "Dhee / Dhii (Long ee) · middle of word · በ መሃከል",
+    "audioId": "w169"
+  },
+  {
+    "id": "w170",
+    "indices": [
+      16,
+      25,
+      26,
+      9
+    ],
+    "word": "ظهور",
+    "vocalized": "ظُهُور",
+    "meaning": "appearance; backs",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "✨",
+    "transliteration": "ẓuhuwr",
+    "section": "17. ظ (Zhaa)",
+    "example_of": "Dhoo / Dhuu (Long oo) · start of word · በ መጀመሪያ",
+    "audioId": "w170"
+  },
+  {
+    "id": "w171",
+    "indices": [
+      5,
+      16,
+      26,
+      16
+    ],
+    "word": "حظوظ",
+    "vocalized": "حُظُوظ",
+    "meaning": "fortunes; chances",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "✨",
+    "transliteration": "ḥuẓuwẓ",
+    "section": "17. ظ (Zhaa)",
+    "example_of": "Dhoo / Dhuu (Long oo) · middle of word · በ መሃከል",
+    "audioId": "w171"
+  },
+  {
+    "id": "w172",
+    "indices": [
+      17,
+      16,
+      23,
+      2
+    ],
+    "word": "عظمة",
+    "vocalized": "عَظَمَة",
+    "meaning": "greatness",
+    "amharic": "ታላቅነት",
+    "emoji": "🌟",
+    "transliteration": "ʿaẓamaa",
+    "section": "17. ظ (Zhaa)",
+    "example_of": "Dha (Medial short a) · middle of word · በ መሃከል",
+    "audioId": "w172"
+  },
+  {
+    "id": "w173",
+    "indices": [
+      22,
+      19,
+      16
+    ],
+    "word": "لفظ",
+    "vocalized": "لَفْظ",
+    "meaning": "pronunciation; utterance",
+    "amharic": "አጠራር",
+    "emoji": "✨",
+    "transliteration": "lafẓ",
+    "section": "17. ظ (Zhaa)",
+    "example_of": "Dha (Final short a) · end of word · በ መጨረሻ",
+    "audioId": "w173"
+  },
+  {
+    "id": "w174",
+    "indices": [
+      17,
+      22,
+      23
+    ],
+    "word": "علم",
+    "vocalized": "عَلَم",
+    "meaning": "flag; knowledge (depending on vowels)",
+    "amharic": "ባንዲራ፤ ዕውቀት",
+    "emoji": "✏️",
+    "transliteration": "ʿalam",
+    "section": "18. ع (Ayn)",
+    "example_of": "A (Throaty A) · start of word · በ መጀመሪያ | A (Initial short a) · start of word · በ መጀመሪያ | La (Medial short a) · middle of word · በ መሃከል",
+    "audioId": "w174"
+  },
+  {
+    "id": "w175",
+    "indices": [
+      23,
+      22,
+      17,
+      1
+    ],
+    "word": "ملعب",
+    "vocalized": "مَلْعَب",
+    "meaning": "playground; stadium",
+    "amharic": "መጫወቻ ሜዳ፤ ስታዲየም",
+    "emoji": "✨",
+    "transliteration": "malʿab",
+    "section": "18. ع (Ayn)",
+    "example_of": "A (Throaty A) · middle of word · በ መሃከል | A (Medial short a) · middle of word · በ መሃከል",
+    "audioId": "w175"
+  },
+  {
+    "id": "w176",
+    "indices": [
+      11,
+      23,
+      17
+    ],
+    "word": "سمع",
+    "vocalized": "سَمِعَ",
+    "meaning": "he heard",
+    "amharic": "ሰማ",
+    "emoji": "✨",
+    "transliteration": "samiʿa",
+    "section": "18. ع (Ayn)",
+    "example_of": "A (Throaty A) · end of word · በ መጨረሻ | A (Final short a) · end of word · በ መጨረሻ",
+    "audioId": "w176"
+  },
+  {
+    "id": "w177",
+    "indices": [
+      17,
+      22,
+      23
+    ],
+    "word": "علم",
+    "vocalized": "عِلْم",
+    "meaning": "knowledge; science",
+    "amharic": "ዕውቀት፤ ሳይንስ",
+    "emoji": "✨",
+    "transliteration": "ʿilm",
+    "section": "18. ع (Ayn)",
+    "example_of": "I (Throaty I) · start of word · በ መጀመሪያ",
+    "audioId": "w177"
+  },
+  {
+    "id": "w178",
+    "indices": [
+      17,
+      13,
+      19,
+      26,
+      9
+    ],
+    "word": "عصفور",
+    "vocalized": "عُصْفُور",
+    "meaning": "bird; sparrow",
+    "amharic": "ወፍ",
+    "emoji": "🐦",
+    "transliteration": "ʿuṣfuwr",
+    "section": "18. ع (Ayn)",
+    "example_of": "U (Throaty U) · start of word · በ መጀመሪያ",
+    "audioId": "w178"
+  },
+  {
+    "id": "w179",
+    "indices": [
+      17,
+      0,
+      22,
+      23
+    ],
+    "word": "عالم",
+    "vocalized": "عَالَم",
+    "meaning": "world",
+    "amharic": "ዓለም",
+    "emoji": "✨",
+    "transliteration": "ʿaālam",
+    "section": "18. ع (Ayn)",
+    "example_of": "Aa (Long aa) · start of word · በ መጀመሪያ",
+    "audioId": "w179"
+  },
+  {
+    "id": "w180",
+    "indices": [
+      11,
+      17,
+      0,
+      7,
+      2
+    ],
+    "word": "سعادة",
+    "vocalized": "سَعَادَة",
+    "meaning": "happiness",
+    "amharic": "ደስታ",
+    "emoji": "✨",
+    "transliteration": "saʿaādaa",
+    "section": "18. ع (Ayn)",
+    "example_of": "Aa (Long aa) · middle of word · በ መሃከል",
+    "audioId": "w180"
+  },
+  {
+    "id": "w181",
+    "indices": [
+      17,
+      27,
+      7
+    ],
+    "word": "عيد",
+    "vocalized": "عِيد",
+    "meaning": "festival; holiday",
+    "amharic": "በዓል",
+    "emoji": "✨",
+    "transliteration": "ʿiyd",
+    "section": "18. ع (Ayn)",
+    "example_of": "Ee / Ii (Long ee) · start of word · በ መጀመሪያ",
+    "audioId": "w181"
+  },
+  {
+    "id": "w182",
+    "indices": [
+      11,
+      17,
+      27,
+      7
+    ],
+    "word": "سعيد",
+    "vocalized": "سَعِيد",
+    "meaning": "happy",
+    "amharic": "ደስተኛ",
+    "emoji": "✨",
+    "transliteration": "saʿiyd",
+    "section": "18. ع (Ayn)",
+    "example_of": "Ee / Ii (Long ee) · middle of word · በ መሃከል",
+    "audioId": "w182"
+  },
+  {
+    "id": "w183",
+    "indices": [
+      17,
+      26,
+      7
+    ],
+    "word": "عود",
+    "vocalized": "عُود",
+    "meaning": "oud; wood",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "✨",
+    "transliteration": "ʿuwd",
+    "section": "18. ع (Ayn)",
+    "example_of": "Oo / Uu (Long oo) · start of word · በ መጀመሪያ",
+    "audioId": "w183"
+  },
+  {
+    "id": "w184",
+    "indices": [
+      17,
+      26,
+      7,
+      2
+    ],
+    "word": "عودة",
+    "vocalized": "عُودَة",
+    "meaning": "return",
+    "amharic": "መመለስ",
+    "emoji": "✨",
+    "transliteration": "ʿuwdaa",
+    "section": "18. ع (Ayn)",
+    "example_of": "Oo / Uu (Long oo) · middle of word · በ መሃከል",
+    "audioId": "w184"
+  },
+  {
+    "id": "w185",
+    "indices": [
+      18,
+      10,
+      0,
+      22
+    ],
+    "word": "غزال",
+    "vocalized": "غَزَال",
+    "meaning": "gazelle",
+    "amharic": "የሜዳ አጋዘን",
+    "emoji": "🦌",
+    "transliteration": "ghazaāl",
+    "section": "19. غ (Ghayn)",
+    "example_of": "Gha (Short a) · start of word · በ መጀመሪያ | Gha (Initial short a) · start of word · በ መጀመሪያ",
+    "audioId": "w185"
+  },
+  {
+    "id": "w186",
+    "indices": [
+      13,
+      18,
+      2
+    ],
+    "word": "صغة",
+    "vocalized": "صِغَة",
+    "meaning": "unclear as written",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "✨",
+    "transliteration": "ṣighaa",
+    "section": "19. غ (Ghayn)",
+    "example_of": "Gha (Short a) · middle of word · በ መሃከል",
+    "audioId": "w186"
+  },
+  {
+    "id": "w187",
+    "indices": [
+      18,
+      22,
+      0,
+      19
+    ],
+    "word": "غلاف",
+    "vocalized": "غِلَاف",
+    "meaning": "cover; wrapping",
+    "amharic": "ሽፋን",
+    "emoji": "✨",
+    "transliteration": "ghilaāf",
+    "section": "19. غ (Ghayn)",
+    "example_of": "Ghi (Short i) · start of word · በ መጀመሪያ",
+    "audioId": "w187"
+  },
+  {
+    "id": "w188",
+    "indices": [
+      18,
+      9,
+      19,
+      2
+    ],
+    "word": "غرفة",
+    "vocalized": "غُرْفَة",
+    "meaning": "room",
+    "amharic": "ክፍል",
+    "emoji": "🚪",
+    "transliteration": "ghurfaa",
+    "section": "19. غ (Ghayn)",
+    "example_of": "Ghu (Short u) · start of word · በ መጀመሪያ",
+    "audioId": "w188"
+  },
+  {
+    "id": "w189",
+    "indices": [
+      18,
+      0,
+      9
+    ],
+    "word": "غار",
+    "vocalized": "غَار",
+    "meaning": "cave",
+    "amharic": "ዋሻ",
+    "emoji": "✨",
+    "transliteration": "ghaār",
+    "section": "19. غ (Ghayn)",
+    "example_of": "Ghaa (Long aa) · start of word · በ መጀመሪያ",
+    "audioId": "w189"
+  },
+  {
+    "id": "w190",
+    "indices": [
+      13,
+      18,
+      0,
+      9
+    ],
+    "word": "صغار",
+    "vocalized": "صِغَار",
+    "meaning": "young ones; children",
+    "amharic": "ታናናሾች፤ ልጆች",
+    "emoji": "1️⃣",
+    "transliteration": "ṣighaār",
+    "section": "19. غ (Ghayn)",
+    "example_of": "Ghaa (Long aa) · middle of word · በ መሃከል",
+    "audioId": "w190"
+  },
+  {
+    "id": "w191",
+    "indices": [
+      13,
+      18,
+      27,
+      9
+    ],
+    "word": "صغير",
+    "vocalized": "صَغِير",
+    "meaning": "small",
+    "amharic": "ትንሽ",
+    "emoji": "✨",
+    "transliteration": "ṣaghiyr",
+    "section": "19. غ (Ghayn)",
+    "example_of": "Ghee / Ghii (Long ee) · middle of word · በ መሃከል",
+    "audioId": "w191"
+  },
+  {
+    "id": "w192",
+    "indices": [
+      18,
+      26,
+      22
+    ],
+    "word": "غول",
+    "vocalized": "غُول",
+    "meaning": "ghoul; monster",
+    "amharic": "አጋንንት፤ ጭራቅ",
+    "emoji": "✨",
+    "transliteration": "ghuwl",
+    "section": "19. غ (Ghayn)",
+    "example_of": "Ghoo / Ghuu (Long oo) · start of word · በ መጀመሪያ",
+    "audioId": "w192"
+  },
+  {
+    "id": "w193",
+    "indices": [
+      1,
+      18,
+      2
+    ],
+    "word": "بغت",
+    "vocalized": "بَغَتَ",
+    "meaning": "he surprised/attacked suddenly",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "✨",
+    "transliteration": "baghata",
+    "section": "19. غ (Ghayn)",
+    "example_of": "Gha (Medial short a) · middle of word · በ መሃከል",
+    "audioId": "w193"
+  },
+  {
+    "id": "w194",
+    "indices": [
+      13,
+      23,
+      18
+    ],
+    "word": "صمغ",
+    "vocalized": "صَمْغ",
+    "meaning": "glue; gum",
+    "amharic": "ሙጫ",
+    "emoji": "✨",
+    "transliteration": "ṣamgh",
+    "section": "19. غ (Ghayn)",
+    "example_of": "Gha (Final short a) · end of word · በ መጨረሻ",
+    "audioId": "w194"
+  },
+  {
+    "id": "w195",
+    "indices": [
+      19,
+      5,
+      23
+    ],
+    "word": "فحم",
+    "vocalized": "فَحْم",
+    "meaning": "coal",
+    "amharic": "ከሰል",
+    "emoji": "✨",
+    "transliteration": "faḥm",
+    "section": "20. ف (Faa)",
+    "example_of": "Fa (Short a) · start of word · በ መጀመሪያ | Fa (Initial short a) · start of word · በ መጀመሪያ",
+    "audioId": "w195"
+  },
+  {
+    "id": "w196",
+    "indices": [
+      19,
+      27,
+      22
+    ],
+    "word": "فيل",
+    "vocalized": "فِيل",
+    "meaning": "elephant",
+    "amharic": "ዝሆን",
+    "emoji": "🐘",
+    "transliteration": "fiyl",
+    "section": "20. ف (Faa)",
+    "example_of": "Fi (Short i) · start of word · በ መጀመሪያ | Fee / Fii (Long ee) · start of word · በ መጀመሪያ",
+    "audioId": "w196"
+  },
+  {
+    "id": "w197",
+    "indices": [
+      19,
+      9,
+      12,
+      0,
+      2
+    ],
+    "word": "فرشاة",
+    "vocalized": "فُرْشَاة",
+    "meaning": "brush",
+    "amharic": "ብሩሽ",
+    "emoji": "✨",
+    "transliteration": "furshaāa",
+    "section": "20. ف (Faa)",
+    "example_of": "Fu (Short u) · start of word · በ መጀመሪያ",
+    "audioId": "w197"
+  },
+  {
+    "id": "w198",
+    "indices": [
+      19,
+      0,
+      9,
+      11
+    ],
+    "word": "فارس",
+    "vocalized": "فَارِس",
+    "meaning": "knight; horseman",
+    "amharic": "ፈረሰኛ",
+    "emoji": "🌃",
+    "transliteration": "faāris",
+    "section": "20. ف (Faa)",
+    "example_of": "Faa (Long aa) · start of word · በ መጀመሪያ",
+    "audioId": "w198"
+  },
+  {
+    "id": "w199",
+    "indices": [
+      19,
+      26,
+      22
+    ],
+    "word": "فول",
+    "vocalized": "فُول",
+    "meaning": "fava beans",
+    "amharic": "ባቄላ",
+    "emoji": "🫘",
+    "transliteration": "fuwl",
+    "section": "20. ف (Faa)",
+    "example_of": "Foo / Fuu (Long oo) · start of word · በ መጀመሪያ",
+    "audioId": "w199"
+  },
+  {
+    "id": "w200",
+    "indices": [
+      11,
+      19,
+      9
+    ],
+    "word": "سفر",
+    "vocalized": "سَفَر",
+    "meaning": "travel",
+    "amharic": "ጉዞ",
+    "emoji": "✨",
+    "transliteration": "safar",
+    "section": "20. ف (Faa)",
+    "example_of": "Fa (Medial short a) · middle of word · በ መሃከል",
+    "audioId": "w200"
+  },
+  {
+    "id": "w201",
+    "indices": [
+      25,
+      0,
+      2,
+      19
+    ],
+    "word": "هاتف",
+    "vocalized": "هَاتِف",
+    "meaning": "telephone",
+    "amharic": "ስልክ",
+    "emoji": "1️⃣",
+    "transliteration": "haātif",
+    "section": "20. ف (Faa)",
+    "example_of": "Fa (Final short a) · end of word · በ መጨረሻ | Haa (Long aa) · start of word · በ መጀመሪያ",
+    "audioId": "w201"
+  },
+  {
+    "id": "w202",
+    "indices": [
+      20,
+      23,
+      9
+    ],
+    "word": "قمر",
+    "vocalized": "قَمَر",
+    "meaning": "moon",
+    "amharic": "ጨረቃ",
+    "emoji": "🌙",
+    "transliteration": "qamar",
+    "section": "21. ق (Qaaf)",
+    "example_of": "Qa (Short a) · start of word · በ መጀመሪያ | Qa (Initial short a) · start of word · በ መጀመሪያ | Ma (Short a) · middle of word · በ መሃከል",
+    "audioId": "w202"
+  },
+  {
+    "id": "w203",
+    "indices": [
+      1,
+      20,
+      9
+    ],
+    "word": "بقر",
+    "vocalized": "بَقَر",
+    "meaning": "cattle; cows",
+    "amharic": "ከብቶች",
+    "emoji": "🐱",
+    "transliteration": "baqar",
+    "section": "21. ق (Qaaf)",
+    "example_of": "Qa (Short a) · middle of word · በ መሃከል",
+    "audioId": "w203"
+  },
+  {
+    "id": "w204",
+    "indices": [
+      6,
+      22,
+      20
+    ],
+    "word": "خلق",
+    "vocalized": "خَلَقَ",
+    "meaning": "he created",
+    "amharic": "ፈጠረ",
+    "emoji": "✨",
+    "transliteration": "khalaqa",
+    "section": "21. ق (Qaaf)",
+    "example_of": "Qa (Short a) · end of word · በ መጨረሻ | Qa (Final short a) · end of word · በ መጨረሻ",
+    "audioId": "w204"
+  },
+  {
+    "id": "w205",
+    "indices": [
+      20,
+      15
+    ],
+    "word": "قط",
+    "vocalized": "قِطّ",
+    "meaning": "cat",
+    "amharic": "ድመት",
+    "emoji": "🐱",
+    "transliteration": "qiṭ",
+    "section": "21. ق (Qaaf)",
+    "example_of": "Qi (Short i) · start of word · በ መጀመሪያ",
+    "audioId": "w205"
+  },
+  {
+    "id": "w206",
+    "indices": [
+      20,
+      19,
+      22
+    ],
+    "word": "قفل",
+    "vocalized": "قُفْل",
+    "meaning": "lock",
+    "amharic": "መቆለፊያ",
+    "emoji": "✨",
+    "transliteration": "qufl",
+    "section": "21. ق (Qaaf)",
+    "example_of": "Qu (Short u) · start of word · በ መጀመሪያ",
+    "audioId": "w206"
+  },
+  {
+    "id": "w207",
+    "indices": [
+      20,
+      0,
+      9,
+      1
+    ],
+    "word": "قارب",
+    "vocalized": "قَارِب",
+    "meaning": "boat",
+    "amharic": "ጀልባ",
+    "emoji": "⛵",
+    "transliteration": "qaārib",
+    "section": "21. ق (Qaaf)",
+    "example_of": "Qaa (Long aa) · start of word · በ መጀመሪያ",
+    "audioId": "w207"
+  },
+  {
+    "id": "w208",
+    "indices": [
+      11,
+      20,
+      15
+    ],
+    "word": "سقط",
+    "vocalized": "سَقَطَ",
+    "meaning": "he fell",
+    "amharic": "ወደቀ",
+    "emoji": "✨",
+    "transliteration": "saqaṭa",
+    "section": "21. ق (Qaaf)",
+    "example_of": "Qa (Medial short a) · middle of word · በ መሃከል",
+    "audioId": "w208"
+  },
+  {
+    "id": "w209",
+    "indices": [
+      21,
+      0,
+      2,
+      1
+    ],
+    "word": "كاتب",
+    "vocalized": "كَاتِب",
+    "meaning": "writer",
+    "amharic": "ጸሐፊ",
+    "emoji": "✨",
+    "transliteration": "kaātib",
+    "section": "22. ك (Kaaf)",
+    "example_of": "Ka (Short a) · start of word · በ መጀመሪያ | Kaa (Long aa) · start of word · በ መጀመሪያ | Ka (Initial short a) · start of word · በ መጀመሪያ",
+    "audioId": "w209"
+  },
+  {
+    "id": "w210",
+    "indices": [
+      21,
+      9,
+      11,
+      27
+    ],
+    "word": "كرسي",
+    "vocalized": "كُرْسِي",
+    "meaning": "chair",
+    "amharic": "ወንበር",
+    "emoji": "🪑",
+    "transliteration": "kursiy",
+    "section": "22. ك (Kaaf)",
+    "example_of": "Ku (Short u) · start of word · በ መጀመሪያ | Ya (Final short a) · end of word · በ መጨረሻ",
+    "audioId": "w210"
+  },
+  {
+    "id": "w211",
+    "indices": [
+      23,
+      21,
+      0,
+      24
+    ],
+    "word": "مكان",
+    "vocalized": "مَكَان",
+    "meaning": "place",
+    "amharic": "ቦታ",
+    "emoji": "✨",
+    "transliteration": "makaān",
+    "section": "22. ك (Kaaf)",
+    "example_of": "Kaa (Long aa) · middle of word · በ መሃከል",
+    "audioId": "w211"
+  },
+  {
+    "id": "w212",
+    "indices": [
+      21,
+      27,
+      11
+    ],
+    "word": "كيس",
+    "vocalized": "كِيس",
+    "meaning": "bag; sack",
+    "amharic": "ቦርሳ፤ ከረጢት",
+    "emoji": "✨",
+    "transliteration": "kiys",
+    "section": "22. ك (Kaaf)",
+    "example_of": "Kee / Kii (Long ee) · start of word · በ መጀመሪያ",
+    "audioId": "w212"
+  },
+  {
+    "id": "w213",
+    "indices": [
+      21,
+      26,
+      1
+    ],
+    "word": "كوب",
+    "vocalized": "كُوب",
+    "meaning": "cup",
+    "amharic": "ኩባያ",
+    "emoji": "🥛",
+    "transliteration": "kuwb",
+    "section": "22. ك (Kaaf)",
+    "example_of": "Koo / Kuu (Long oo) · start of word · በ መጀመሪያ",
+    "audioId": "w213"
+  },
+  {
+    "id": "w214",
+    "indices": [
+      11,
+      21,
+      24
+    ],
+    "word": "سكن",
+    "vocalized": "سَكَنَ",
+    "meaning": "he lived; resided",
+    "amharic": "ኖረ",
+    "emoji": "✨",
+    "transliteration": "sakana",
+    "section": "22. ك (Kaaf)",
+    "example_of": "Ka (Medial short a) · middle of word · በ መሃከል",
+    "audioId": "w214"
+  },
+  {
+    "id": "w215",
+    "indices": [
+      22,
+      1,
+      24
+    ],
+    "word": "لبن",
+    "vocalized": "لَبَن",
+    "meaning": "milk; yogurt (regional usage)",
+    "amharic": "ወተት፤ እርጎ",
+    "emoji": "🥛",
+    "transliteration": "laban",
+    "section": "23. ل (Laam)",
+    "example_of": "La (Short a) · start of word · በ መጀመሪያ | La (Initial short a) · start of word · በ መጀመሪያ | Na (Final short a) · end of word · በ መጨረሻ",
+    "audioId": "w215"
+  },
+  {
+    "id": "w216",
+    "indices": [
+      22,
+      11,
+      0,
+      24
+    ],
+    "word": "لسان",
+    "vocalized": "لِسَان",
+    "meaning": "tongue; language",
+    "amharic": "ምላስ፤ ቋንቋ",
+    "emoji": "✨",
+    "transliteration": "lisaān",
+    "section": "23. ل (Laam)",
+    "example_of": "Li (Short i) · start of word · በ መጀመሪያ",
+    "audioId": "w216"
+  },
+  {
+    "id": "w217",
+    "indices": [
+      22,
+      17,
+      1,
+      2
+    ],
+    "word": "لعبة",
+    "vocalized": "لُعْبَة",
+    "meaning": "toy; game",
+    "amharic": "መጫወቻ፤ ጨዋታ",
+    "emoji": "✨",
+    "transliteration": "luʿbaa",
+    "section": "23. ل (Laam)",
+    "example_of": "Lu (Short u) · start of word · በ መጀመሪያ",
+    "audioId": "w217"
+  },
+  {
+    "id": "w218",
+    "indices": [
+      22,
+      0,
+      10,
+      23
+    ],
+    "word": "لازم",
+    "vocalized": "لَازِم",
+    "meaning": "necessary; must",
+    "amharic": "አስፈላጊ",
+    "emoji": "✨",
+    "transliteration": "laāzim",
+    "section": "23. ل (Laam)",
+    "example_of": "Laa (Long aa) · start of word · በ መጀመሪያ",
+    "audioId": "w218"
+  },
+  {
+    "id": "w219",
+    "indices": [
+      11,
+      22,
+      0,
+      23
+    ],
+    "word": "سلام",
+    "vocalized": "سَلَام",
+    "meaning": "peace; greeting",
+    "amharic": "ሰላም",
+    "emoji": "✨",
+    "transliteration": "salaām",
+    "section": "23. ل (Laam)",
+    "example_of": "Laa (Long aa) · middle of word · በ መሃከል",
+    "audioId": "w219"
+  },
+  {
+    "id": "w220",
+    "indices": [
+      22,
+      27,
+      23,
+      26,
+      24
+    ],
+    "word": "ليمون",
+    "vocalized": "لِيمُون",
+    "meaning": "lemon",
+    "amharic": "ሎሚ",
+    "emoji": "✨",
+    "transliteration": "liymuwn",
+    "section": "23. ل (Laam)",
+    "example_of": "Lee / Lii (Long ee) · start of word · በ መጀመሪያ",
+    "audioId": "w220"
+  },
+  {
+    "id": "w221",
+    "indices": [
+      11,
+      22,
+      27,
+      23
+    ],
+    "word": "سليم",
+    "vocalized": "سَلِيم",
+    "meaning": "safe; sound",
+    "amharic": "ደህና፤ ጤነኛ",
+    "emoji": "✨",
+    "transliteration": "saliym",
+    "section": "23. ل (Laam)",
+    "example_of": "Lee / Lii (Long ee) · middle of word · በ መሃከል",
+    "audioId": "w221"
+  },
+  {
+    "id": "w222",
+    "indices": [
+      22,
+      26,
+      10
+    ],
+    "word": "لوز",
+    "vocalized": "لُوز",
+    "meaning": "almonds",
+    "amharic": "ለውዝ",
+    "emoji": "✨",
+    "transliteration": "luwz",
+    "section": "23. ل (Laam)",
+    "example_of": "Loo / Luu (Long oo) · start of word · በ መጀመሪያ",
+    "audioId": "w222"
+  },
+  {
+    "id": "w223",
+    "indices": [
+      1,
+      22,
+      26,
+      18
+    ],
+    "word": "بلوغ",
+    "vocalized": "بُلُوغ",
+    "meaning": "reaching; maturity",
+    "amharic": "መድረስ፤ ብስለት",
+    "emoji": "✨",
+    "transliteration": "buluwgh",
+    "section": "23. ل (Laam)",
+    "example_of": "Loo / Luu (Long oo) · middle of word · በ መሃከል",
+    "audioId": "w223"
+  },
+  {
+    "id": "w224",
+    "indices": [
+      23,
+      0,
+      0
+    ],
+    "word": "ماء",
+    "vocalized": "مَاء",
+    "meaning": "water",
+    "amharic": "ውሃ",
+    "emoji": "💧",
+    "transliteration": "maā'",
+    "section": "24. م (Meem)",
+    "example_of": "Ma (Short a) · start of word · በ መጀመሪያ | Ma (Initial short a) · start of word · በ መጀመሪያ",
+    "audioId": "w224"
+  },
+  {
+    "id": "w225",
+    "indices": [
+      23,
+      19,
+      2,
+      0,
+      5
+    ],
+    "word": "مفتاح",
+    "vocalized": "مِفْتَاح",
+    "meaning": "key",
+    "amharic": "ቁልፍ",
+    "emoji": "🔑",
+    "transliteration": "miftaāḥ",
+    "section": "24. م (Meem)",
+    "example_of": "Mi (Short i) · start of word · በ መጀመሪያ",
+    "audioId": "w225"
+  },
+  {
+    "id": "w226",
+    "indices": [
+      23,
+      7,
+      9,
+      11
+    ],
+    "word": "مدرس",
+    "vocalized": "مُدَرِّس",
+    "meaning": "teacher",
+    "amharic": "አስተማሪ",
+    "emoji": "🍵",
+    "transliteration": "mudaris",
+    "section": "24. م (Meem)",
+    "example_of": "Mu (Short u) · start of word · በ መጀመሪያ",
+    "audioId": "w226"
+  },
+  {
+    "id": "w227",
+    "indices": [
+      23,
+      0,
+      9,
+      11
+    ],
+    "word": "مارس",
+    "vocalized": "مَارِس",
+    "meaning": "March (as written; may be a name/form)",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "✨",
+    "transliteration": "maāris",
+    "section": "24. م (Meem)",
+    "example_of": "Maa (Long aa) · start of word · በ መጀመሪያ",
+    "audioId": "w227"
+  },
+  {
+    "id": "w228",
+    "indices": [
+      11,
+      23,
+      0,
+      0
+    ],
+    "word": "سماء",
+    "vocalized": "سَمَاء",
+    "meaning": "sky",
+    "amharic": "ሰማይ",
+    "emoji": "🌌",
+    "transliteration": "samaā'",
+    "section": "24. م (Meem)",
+    "example_of": "Maa (Long aa) · middle of word · በ መሃከል",
+    "audioId": "w228"
+  },
+  {
+    "id": "w229",
+    "indices": [
+      23,
+      27,
+      0,
+      25
+    ],
+    "word": "مياه",
+    "vocalized": "مِيَاه",
+    "meaning": "water(s)",
+    "amharic": "ውሃ",
+    "emoji": "💧",
+    "transliteration": "miyaāh",
+    "section": "24. م (Meem)",
+    "example_of": "Mee / Mii (Long ee) · start of word · በ መጀመሪያ",
+    "audioId": "w229"
+  },
+  {
+    "id": "w230",
+    "indices": [
+      4,
+      23,
+      27,
+      22
+    ],
+    "word": "جميل",
+    "vocalized": "جَمِيل",
+    "meaning": "beautiful",
+    "amharic": "ቆንጆ",
+    "emoji": "✨",
+    "transliteration": "jamiyl",
+    "section": "24. م (Meem)",
+    "example_of": "Mee / Mii (Long ee) · middle of word · በ መሃከል",
+    "audioId": "w230"
+  },
+  {
+    "id": "w231",
+    "indices": [
+      23,
+      26,
+      10
+    ],
+    "word": "موز",
+    "vocalized": "مُوز",
+    "meaning": "bananas",
+    "amharic": "ሙዝ",
+    "emoji": "🍌",
+    "transliteration": "muwz",
+    "section": "24. م (Meem)",
+    "example_of": "Moo / Muu (Long oo) · start of word · በ መጀመሪያ",
+    "audioId": "w231"
+  },
+  {
+    "id": "w232",
+    "indices": [
+      17,
+      23,
+      26,
+      23
+    ],
+    "word": "عموم",
+    "vocalized": "عُمُوم",
+    "meaning": "generality; public",
+    "amharic": "አጠቃላይነት",
+    "emoji": "✨",
+    "transliteration": "ʿumuwm",
+    "section": "24. م (Meem)",
+    "example_of": "Moo / Muu (Long oo) · middle of word · በ መሃከል",
+    "audioId": "w232"
+  },
+  {
+    "id": "w233",
+    "indices": [
+      20,
+      22,
+      23
+    ],
+    "word": "قلم",
+    "vocalized": "قَلَم",
+    "meaning": "pen",
+    "amharic": "ብዕር",
+    "emoji": "✏️",
+    "transliteration": "qalam",
+    "section": "24. م (Meem)",
+    "example_of": "Ma (Final short a) · end of word · በ መጨረሻ",
+    "audioId": "w233"
+  },
+  {
+    "id": "w234",
+    "indices": [
+      24,
+      4,
+      23,
+      2
+    ],
+    "word": "نجمة",
+    "vocalized": "نَجْمَة",
+    "meaning": "star",
+    "amharic": "ኮከብ",
+    "emoji": "⭐",
+    "transliteration": "najmaa",
+    "section": "25. ن (Noon)",
+    "example_of": "Na (Short a) · start of word · በ መጀመሪያ | Na (Initial short a) · start of word · በ መጀመሪያ",
+    "audioId": "w234"
+  },
+  {
+    "id": "w235",
+    "indices": [
+      24,
+      23,
+      9
+    ],
+    "word": "نمر",
+    "vocalized": "نِمْر",
+    "meaning": "tiger",
+    "amharic": "ነብር",
+    "emoji": "🐅",
+    "transliteration": "nimr",
+    "section": "25. ن (Noon)",
+    "example_of": "Ni (Short i) · start of word · በ መጀመሪያ",
+    "audioId": "w235"
+  },
+  {
+    "id": "w236",
+    "indices": [
+      24,
+      26,
+      9
+    ],
+    "word": "نور",
+    "vocalized": "نُور",
+    "meaning": "light",
+    "amharic": "ብርሃን",
+    "emoji": "💡",
+    "transliteration": "nuwr",
+    "section": "25. ن (Noon)",
+    "example_of": "Nu (Short u) · start of word · በ መጀመሪያ | Noo / Nuu (Long oo) · start of word · በ መጀመሪያ",
+    "audioId": "w236"
+  },
+  {
+    "id": "w237",
+    "indices": [
+      24,
+      0,
+      9
+    ],
+    "word": "نار",
+    "vocalized": "نَار",
+    "meaning": "fire",
+    "amharic": "እሳት",
+    "emoji": "🔥",
+    "transliteration": "naār",
+    "section": "25. ن (Noon)",
+    "example_of": "Naa (Long aa) · start of word · በ መጀመሪያ",
+    "audioId": "w237"
+  },
+  {
+    "id": "w238",
+    "indices": [
+      23,
+      24,
+      0,
+      9
+    ],
+    "word": "منار",
+    "vocalized": "مَنَار",
+    "meaning": "lighthouse; beacon",
+    "amharic": "መብራት ማማ",
+    "emoji": "🏠",
+    "transliteration": "manaār",
+    "section": "25. ن (Noon)",
+    "example_of": "Naa (Long aa) · middle of word · በ መሃከል",
+    "audioId": "w238"
+  },
+  {
+    "id": "w239",
+    "indices": [
+      24,
+      27,
+      22
+    ],
+    "word": "نيل",
+    "vocalized": "نِيل",
+    "meaning": "Nile",
+    "amharic": "አባይ፤ ናይል",
+    "emoji": "✨",
+    "transliteration": "niyl",
+    "section": "25. ن (Noon)",
+    "example_of": "Nee / Nii (Long ee) · start of word · በ መጀመሪያ",
+    "audioId": "w239"
+  },
+  {
+    "id": "w240",
+    "indices": [
+      23,
+      24,
+      27,
+      17
+    ],
+    "word": "منيع",
+    "vocalized": "مَنِيع",
+    "meaning": "strong; fortified",
+    "amharic": "የተመሸገ፤ ጠንካራ",
+    "emoji": "✨",
+    "transliteration": "maniyʿ",
+    "section": "25. ن (Noon)",
+    "example_of": "Nee / Nii (Long ee) · middle of word · በ መሃከል",
+    "audioId": "w240"
+  },
+  {
+    "id": "w241",
+    "indices": [
+      23,
+      24,
+      17
+    ],
+    "word": "منع",
+    "vocalized": "مَنَعَ",
+    "meaning": "he prevented",
+    "amharic": "ከለከለ",
+    "emoji": "✨",
+    "transliteration": "manaʿa",
+    "section": "25. ن (Noon)",
+    "example_of": "Na (Medial short a) · middle of word · በ መሃከል",
+    "audioId": "w241"
+  },
+  {
+    "id": "w242",
+    "indices": [
+      25,
+      7,
+      27,
+      2
+    ],
+    "word": "هدية",
+    "vocalized": "هَدِيَّة",
+    "meaning": "gift",
+    "amharic": "ስጦታ",
+    "emoji": "✨",
+    "transliteration": "hadiyaa",
+    "section": "26. ه (Haa)",
+    "example_of": "Ha (Short a) · start of word · በ መጀመሪያ | Ha (Initial short a) · start of word · በ መጀመሪያ",
+    "audioId": "w242"
+  },
+  {
+    "id": "w243",
+    "indices": [
+      24,
+      25,
+      9
+    ],
+    "word": "نهر",
+    "vocalized": "نَهَر",
+    "meaning": "river",
+    "amharic": "ወንዝ",
+    "emoji": "🏞️",
+    "transliteration": "nahar",
+    "section": "26. ه (Haa)",
+    "example_of": "Ha (Short a) · middle of word · በ መሃከል | Ha (Medial short a) · middle of word · በ መሃከል",
+    "audioId": "w243"
+  },
+  {
+    "id": "w244",
+    "indices": [
+      25,
+      4,
+      9,
+      2
+    ],
+    "word": "هجرة",
+    "vocalized": "هِجْرَة",
+    "meaning": "migration",
+    "amharic": "ፍልሰት",
+    "emoji": "✨",
+    "transliteration": "hijraa",
+    "section": "26. ه (Haa)",
+    "example_of": "Hi (Short i) · start of word · በ መጀመሪያ",
+    "audioId": "w244"
+  },
+  {
+    "id": "w245",
+    "indices": [
+      25,
+      7,
+      25,
+      7
+    ],
+    "word": "هدهد",
+    "vocalized": "هُدْهُد",
+    "meaning": "hoopoe",
+    "amharic": "ሆፖ ወፍ",
+    "emoji": "✨",
+    "transliteration": "hudhud",
+    "section": "26. ه (Haa)",
+    "example_of": "Hu (Short u) · start of word · በ መጀመሪያ",
+    "audioId": "w245"
+  },
+  {
+    "id": "w246",
+    "indices": [
+      25,
+      27,
+      9,
+      26
+    ],
+    "word": "هيرو",
+    "vocalized": "هِيرُو",
+    "meaning": "unclear; possibly a name",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "✨",
+    "transliteration": "hiyruw",
+    "section": "26. ه (Haa)",
+    "example_of": "Hee / Hii (Long ee) · start of word · በ መጀመሪያ",
+    "audioId": "w246"
+  },
+  {
+    "id": "w247",
+    "indices": [
+      19,
+      25,
+      27,
+      23
+    ],
+    "word": "فهيم",
+    "vocalized": "فَهِيم",
+    "meaning": "intelligent; perceptive",
+    "amharic": "ብልህ",
+    "emoji": "✨",
+    "transliteration": "fahiym",
+    "section": "26. ه (Haa)",
+    "example_of": "Hee / Hii (Long ee) · middle of word · በ መሃከል",
+    "audioId": "w247"
+  },
+  {
+    "id": "w248",
+    "indices": [
+      25,
+      26,
+      27,
+      2
+    ],
+    "word": "هوية",
+    "vocalized": "هُوِيَّة",
+    "meaning": "identity",
+    "amharic": "ማንነት",
+    "emoji": "✨",
+    "transliteration": "huwiyaa",
+    "section": "26. ه (Haa)",
+    "example_of": "Hoo / Huu (Long oo) · start of word · በ መጀመሪያ",
+    "audioId": "w248"
+  },
+  {
+    "id": "w249",
+    "indices": [
+      26,
+      4,
+      25
+    ],
+    "word": "وجه",
+    "vocalized": "وَجْه",
+    "meaning": "face",
+    "amharic": "ፊት",
+    "emoji": "🙂",
+    "transliteration": "wajh",
+    "section": "26. ه (Haa)",
+    "example_of": "Ha (Final short a) · end of word · በ መጨረሻ",
+    "audioId": "w249"
+  },
+  {
+    "id": "w250",
+    "indices": [
+      26,
+      9,
+      7,
+      2
+    ],
+    "word": "وردة",
+    "vocalized": "وَرْدَة",
+    "meaning": "rose",
+    "amharic": "ጽጌረዳ",
+    "emoji": "🌹",
+    "transliteration": "wardaa",
+    "section": "27. و (Waaw)",
+    "example_of": "Wa (Short a) · start of word · በ መጀመሪያ | Wa (Initial short a) · start of word · በ መጀመሪያ",
+    "audioId": "w250"
+  },
+  {
+    "id": "w251",
+    "indices": [
+      26,
+      11,
+      0,
+      23
+    ],
+    "word": "وسام",
+    "vocalized": "وِسَام",
+    "meaning": "medal; decoration",
+    "amharic": "ሜዳሊያ",
+    "emoji": "✨",
+    "transliteration": "wisaām",
+    "section": "27. و (Waaw)",
+    "example_of": "Wi (Short i) · start of word · በ መጀመሪያ",
+    "audioId": "w251"
+  },
+  {
+    "id": "w252",
+    "indices": [
+      26,
+      4,
+      26,
+      25
+    ],
+    "word": "وجوه",
+    "vocalized": "وُجُوه",
+    "meaning": "faces",
+    "amharic": "ፊቶች",
+    "emoji": "🙂",
+    "transliteration": "wujuwh",
+    "section": "27. و (Waaw)",
+    "example_of": "Wu (Short u) · start of word · በ መጀመሪያ",
+    "audioId": "w252"
+  },
+  {
+    "id": "w253",
+    "indices": [
+      26,
+      0,
+      5,
+      7
+    ],
+    "word": "واحد",
+    "vocalized": "وَاحِد",
+    "meaning": "one",
+    "amharic": "አንድ",
+    "emoji": "1️⃣",
+    "transliteration": "waāḥid",
+    "section": "27. و (Waaw)",
+    "example_of": "Waa (Long aa) · start of word · በ መጀመሪያ",
+    "audioId": "w253"
+  },
+  {
+    "id": "w254",
+    "indices": [
+      5,
+      26,
+      27,
+      9
+    ],
+    "word": "حوير",
+    "vocalized": "حَوِير",
+    "meaning": "unclear as written",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "✨",
+    "transliteration": "ḥawiyr",
+    "section": "27. و (Waaw)",
+    "example_of": "Wee / Wii (Long ee) · middle of word · በ መሃከል",
+    "audioId": "w254"
+  },
+  {
+    "id": "w255",
+    "indices": [
+      15,
+      26,
+      26,
+      11
+    ],
+    "word": "طووس",
+    "vocalized": "طَوُوس",
+    "meaning": "peacock",
+    "amharic": "ጣዎስ",
+    "emoji": "✨",
+    "transliteration": "ṭawuws",
+    "section": "27. و (Waaw)",
+    "example_of": "Woo / Wuu (Long oo) · middle of word · በ መሃከል",
+    "audioId": "w255"
+  },
+  {
+    "id": "w256",
+    "indices": [
+      27,
+      7
+    ],
+    "word": "يد",
+    "vocalized": "يَد",
+    "meaning": "hand",
+    "amharic": "እጅ",
+    "emoji": "✋",
+    "transliteration": "yad",
+    "section": "28. ي (Yaa)",
+    "example_of": "Ya (Short a) · start of word · በ መጀመሪያ | Ya (Initial short a) · start of word · በ መጀመሪያ",
+    "audioId": "w256"
+  },
+  {
+    "id": "w257",
+    "indices": [
+      27,
+      27,
+      10,
+      7
+    ],
+    "word": "ييزد",
+    "vocalized": "يِيزْد",
+    "meaning": "unclear as written",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "✨",
+    "transliteration": "yiyzd",
+    "section": "28. ي (Yaa)",
+    "example_of": "Yi (Short i) · start of word · በ መጀመሪያ",
+    "audioId": "w257"
+  },
+  {
+    "id": "w258",
+    "indices": [
+      27,
+      26,
+      11,
+      19
+    ],
+    "word": "يوسف",
+    "vocalized": "يُوسُف",
+    "meaning": "Joseph (Yusuf)",
+    "amharic": "ዮሴፍ",
+    "emoji": "✨",
+    "transliteration": "yuwsuf",
+    "section": "28. ي (Yaa)",
+    "example_of": "Yu (Short u) · start of word · በ መጀመሪያ",
+    "audioId": "w258"
+  },
+  {
+    "id": "w259",
+    "indices": [
+      27,
+      0,
+      20,
+      26,
+      2
+    ],
+    "word": "ياقوت",
+    "vocalized": "يَاقُوت",
+    "meaning": "ruby; precious stone",
+    "amharic": "ያቁንት፤ ውድ ድንጋይ",
+    "emoji": "1️⃣",
+    "transliteration": "yaāquwt",
+    "section": "28. ي (Yaa)",
+    "example_of": "Yaa (Long aa) · start of word · በ መጀመሪያ",
+    "audioId": "w259"
+  },
+  {
+    "id": "w260",
+    "indices": [
+      1,
+      27,
+      0,
+      24
+    ],
+    "word": "بيان",
+    "vocalized": "بَيَان",
+    "meaning": "clarification; statement",
+    "amharic": "ማብራሪያ፤ መግለጫ",
+    "emoji": "🐱",
+    "transliteration": "bayaān",
+    "section": "28. ي (Yaa)",
+    "example_of": "Yaa (Long aa) · middle of word · በ መሃከል",
+    "audioId": "w260"
+  },
+  {
+    "id": "w261",
+    "indices": [
+      27,
+      27,
+      24
+    ],
+    "word": "يين",
+    "vocalized": "يِيْن",
+    "meaning": "unclear as written",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "✨",
+    "transliteration": "yiyn",
+    "section": "28. ي (Yaa)",
+    "example_of": "Yee / Yii (Long ee) · start of word · በ መጀመሪያ",
+    "audioId": "w261"
+  },
+  {
+    "id": "w262",
+    "indices": [
+      5,
+      27,
+      27,
+      24
+    ],
+    "word": "حيين",
+    "vocalized": "حَيِين",
+    "meaning": "unclear as written",
+    "amharic": "ትርጉሙ አልተረጋገጠም",
+    "emoji": "✨",
+    "transliteration": "ḥayiyn",
+    "section": "28. ي (Yaa)",
+    "example_of": "Yee / Yii (Long ee) · middle of word · በ መሃከል",
+    "audioId": "w262"
+  },
+  {
+    "id": "w263",
+    "indices": [
+      27,
+      26,
+      24,
+      27,
+      26
+    ],
+    "word": "يونيو",
+    "vocalized": "يُونْيُو",
+    "meaning": "June",
+    "amharic": "ጁን",
+    "emoji": "✨",
+    "transliteration": "yuwnyuw",
+    "section": "28. ي (Yaa)",
+    "example_of": "Yoo / Yuu (Long oo) · start of word · በ መጀመሪያ",
+    "audioId": "w263"
+  }
+]

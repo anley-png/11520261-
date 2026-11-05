@@ -1,0 +1,275 @@
+:root {
+  --i: #3b2f63;
+  --p: #ff7a59;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  background: linear-gradient(#bfe9ff, #fff8e7);
+  color: var(--i);
+  min-height: 100vh;
+  -webkit-user-select: none;
+  user-select: none;
+  overscroll-behavior: none;
+  padding: env(safe-area-inset-top) env(safe-area-inset-right) 0 env(safe-area-inset-left);
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 14px;
+  font-size: 1.1rem;
+}
+
+nav {
+  display: flex;
+  gap: 6px;
+  padding: 4px 8px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+button,
+select {
+  font: inherit;
+  border: 0;
+  border-radius: 16px;
+  padding: 10px 14px;
+  background: var(--p);
+  color: #fff;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 4px 0 #0002;
+  min-height: 48px;
+  touch-action: manipulation;
+}
+
+select {
+  background: #fff;
+  color: var(--i);
+}
+
+button:active {
+  transform: translateY(3px);
+}
+
+.ar {
+  font-family: 'Noto Naskh Arabic', 'Amiri', 'Scheherazade New', 'Segoe UI', 'Geeza Pro', serif;
+  direction: rtl;
+}
+
+#m {
+  max-width: 720px;
+  margin: auto;
+  padding: 12px;
+  text-align: center;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+  direction: rtl;
+  margin-top: 10px;
+}
+
+.t {
+  background: #fff;
+  color: var(--i);
+  font-size: 2.4rem;
+  padding: 6px;
+}
+
+.big {
+  font-size: 6rem;
+  line-height: 1.4;
+}
+
+.cat {
+  font-size: 4rem;
+  animation: b 1.6s infinite;
+}
+
+@keyframes b {
+  50% {
+    transform: translateY(-10px) rotate(-6deg);
+  }
+}
+
+.w {
+  display: inline-block;
+  animation: w 2.4s linear both;
+}
+
+@keyframes w {
+  from {
+    clip-path: inset(0 0 0 100%);
+  }
+  to {
+    clip-path: inset(0);
+  }
+}
+
+.pop {
+  animation: p 0.35s;
+}
+
+@keyframes p {
+  from {
+    transform: scale(0.2);
+  }
+}
+
+.box {
+  display: inline-block;
+  min-width: 64px;
+  height: 78px;
+  line-height: 78px;
+  border: 3px dashed var(--i);
+  border-radius: 14px;
+  margin: 4px;
+  font-size: 2.6rem;
+  background: #fff;
+}
+
+.sh {
+  animation: s 0.3s;
+}
+
+@keyframes s {
+  25% {
+    transform: translateX(-8px);
+  }
+  75% {
+    transform: translateX(8px);
+  }
+}
+
+.f {
+  position: fixed;
+  font-size: 2rem;
+  pointer-events: none;
+  animation: f 1.2s ease-out forwards;
+}
+
+@keyframes f {
+  to {
+    transform: translateY(-200px) rotate(360deg);
+    opacity: 0;
+  }
+}
+
+.snap {
+  animation: sn 0.5s;
+}
+
+@keyframes sn {
+  40% {
+    transform: scale(1.08);
+  }
+}
+
+.card {
+  animation: sl 0.5s;
+}
+
+@keyframes sl {
+  from {
+    transform: translateX(120%);
+  }
+}
+
+.toast {
+  position: fixed;
+  bottom: 16px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #fff;
+  padding: 12px 16px;
+  border-radius: 16px;
+  box-shadow: 0 4px 12px #0003;
+  z-index: 100;
+  color: var(--i);
+  font-weight: 600;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+  }
+}
+
+.cat2 {
+  animation: b 3s infinite;
+}
+
+.eye {
+  animation: bl 4s infinite;
+  transform-box: fill-box;
+  transform-origin: center;
+}
+
+@keyframes bl {
+  0%,
+  94%,
+  100% {
+    transform: scaleY(1);
+  }
+  97% {
+    transform: scaleY(0.1);
+  }
+}
+
+.cl {
+  position: fixed;
+  top: 56px;
+  font-size: 3rem;
+  opacity: 0.7;
+  animation: dr 45s linear infinite;
+  pointer-events: none;
+}
+
+@keyframes dr {
+  from {
+    left: -10%;
+  }
+  to {
+    left: 100%;
+  }
+}
+
+@media (max-width: 600px) {
+  nav {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 5;
+    background: #fffd;
+    backdrop-filter: blur(6px);
+    padding: 6px 4px calc(6px + env(safe-area-inset-bottom));
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    justify-content: flex-start;
+  }
+  nav button {
+    flex: 0 0 auto;
+    padding: 8px 10px;
+    font-size: 0.85rem;
+  }
+  #m {
+    padding-bottom: 100px;
+  }
+  .big {
+    font-size: 5rem;
+  }
+}

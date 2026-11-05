@@ -1,0 +1,7 @@
+{
+  "name": "Arabic Letter Island",
+  "description": "Interactive educational cartoon game that teaches Arabic letters, letter forms, vowels, and words with audio, tracing, building, and fun island exploration.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
