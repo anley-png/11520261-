@@ -1,0 +1,40 @@
+name: Generate audio (SILMA TTS V1)
+on:
+  workflow_dispatch:
+    inputs:
+      ref_file:
+        description: "Optional reference recording in the repo (blank = voice bundled with silma-tts)"
+        required: false
+        default: ""
+      ref_text:
+        description: "Exact words spoken in that recording (required if ref_file is set)"
+        required: false
+        default: ""
+      ids:
+        description: "Optional space-separated ids, e.g. w001 s02_01 (blank = all 542)"
+        required: false
+        default: ""
+      speed:
+        description: "Speech speed, 1.0 = normal"
+        required: false
+        default: "0.85"
+      commit:
+        description: "Commit the MP3s into public/audio"
+        type: boolean
+        default: false
+permissions:
+  contents: write
+jobs:
+  audio:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - run: pip install silma-tts
+      - name: Generate audio
+        env:
+          REF_FILE: ${{ inputs.ref_file }}
