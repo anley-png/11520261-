@@ -38,3 +38,25 @@ jobs:
       - name: Generate audio
         env:
           REF_FILE: ${{ inputs.ref_file }}
+          REF_TEXT: ${{ inputs.ref_text }}
+          IDS: ${{ inputs.ids }}
+          SPEED: ${{ inputs.speed }}
+        run: |
+          args=(--out audio --speed "$SPEED" --force)
+          if [ -n "$REF_FILE" ]; then args+=(--ref "$REF_FILE" --ref-text "$REF_TEXT"); fi
+          if [ -n "$IDS" ]; then args+=(--ids $IDS); fi
+          python tools/generate_audio.py "${args[@]}"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: audio
+          path: audio
+      - name: Commit audio
+        if: ${{ inputs.commit }}
+        run: |
+          mkdir -p public/audio
+          cp audio/*.mp3 public/audio/
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add public/audio
+          git commit -m "Regenerate audio with SILMA TTS V1" || echo "No changes"
+          git push
